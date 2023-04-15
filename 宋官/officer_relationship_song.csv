@@ -1,0 +1,507 @@
+Name,姓名,Index year,Sex,Associate,社会关系人姓名,Assoc. Index Year,Assoc. Sex,Association,联系,Address,籍贯,X,Y,Assoc. Address,联系人籍贯,Assoc. X,Assoc. Y,Kinship Relation,亲属关系,Kin Name,亲戚姓名,Assoc. Kinship Rel.,关系人的亲属关系,Assoc. Kin Name,关系人的亲戚姓名,Distance 距离,Person ID,Assoc ID
+An Dun,安惇,1042,M,Zou Hao,邹浩,1060,M,Opposed or attacked,反对/攻讦,Qujiang,渠江,106.631752,30.47769,Wujin,武进,119.952301,31.782784,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1275.341259,1,3888
+An Dun,安惇,1042,M,Zhang Shiliang,张士良,,M,Opposed or attacked,反对/攻讦,Qujiang,渠江,106.631752,30.47769,[Unknown],[未详],,,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,,1,25065
+Chen Jian(2),陈戬,1081,M,Tong Guan,童贯,1054,M,Opposed or attacked,反对/攻讦,Songxi,松溪,118.774612,27.528404,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,910.189663,31,8124
+Cheng Yu,程瑀,1087,M,Wu Min,吴敏,1087,M,Opposed or attacked,反对/攻讦,Fuliang,浮梁,117.236359,29.382742,Yangzi,扬子,119.177627,32.267544,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,370.4616382,128,8163
+Zhang Shangying,张商英,1043,M,Sima Guang,司马光,1019,M,Opposed or attacked,反对/攻讦,Xinjin,新津,103.810936,30.423536,Xia Xian,夏县,111.220055,35.137451,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,868.1709709,272,1488
+Zhang Dun,章惇,1035,M,Zheng Yong,郑雍,1031,M,Opposed or attacked,反对/攻讦,Pucheng,浦城,118.536255,27.924686,Xiangyi,襄邑,115.065971,34.430504,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,795.028298,333,8030
+Zhou Jiazheng,周嘉正,970,M,Ding Wei,丁谓,966,M,Opposed or attacked,反对/攻讦,Hailing,海陵,119.91124,32.495872,Changzhou,长洲,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,147.5365077,480,1641
+Fan Rugui,范如圭,1102,M,Qin Gui,秦桧,1090,M,Opposed or attacked,反对/攻讦,Jianyang,建阳,118.10537,27.33988,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,527.9286757,575,8008
+Han Zhen,韩缜,1019,M,Zhang Dun,章惇,1035,M,Opposed or attacked,反对/攻讦,Yongqiu,雍邱,114.76066,34.49547,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,813.9120384,634,333
+Xu Jiang,许将,1037,M,Sima Guang,司马光,1019,M,Opposed or attacked,反对/攻讦,Min Xian,闽县,119.321577,26.073954,Xia Xian,夏县,111.220055,35.137451,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1270.445914,781,1488
+Kou Zhun,寇准,961,M,Lin Te,林特,1187,M,Opposed or attacked,反对/攻讦,Xiagui,下邽,109.50959,34.729103,Shunchang,顺昌,117.806282,26.797091,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1184.904638,898,1169
+Gao Ruona,高若讷,997,M,Yu Jing,余靖,1000,M,Opposed or attacked,反对/攻讦,Yuci,榆次,112.744682,37.678467,Qujiang,曲江,113.603417,24.810209,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1433.193392,911,12319
+Guo Zhi,郭贽,935,M,Mi Dechao,弭德超,,M,Opposed or attacked,反对/攻讦,Xiangyi,襄邑,115.065971,34.430504,Qingchi,清池,117.024101,38.209126,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,455.285238,943,8105
+Guo Zhizhang,郭知章,1048,M,Lv Dafang,吕大防,1027,M,Opposed or attacked,反对/攻讦,Quanjiang,泉江,114.505661,26.327883,Lantian,蓝田,109.321556,34.153698,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1002.206558,944,1327
+Li Shizhong,李师中,1013,M,Wang Anshi,王安石,1021,M,Opposed or attacked,反对/攻讦,Xucheng,须城,116.282559,35.956072,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,886.3920331,1078,1762
+Li Di,李迪,971,M,Lin Te,林特,1187,M,Opposed or attacked,反对/攻讦,Kaifeng,开封,114.34333,34.785477,Shunchang,顺昌,117.806282,26.797091,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,947.6629341,1096,1169
+Lv Yihao,吕颐浩,1071,M,Li Gang,李纲,1083,M,Opposed or attacked,反对/攻讦,Linhai,临海,121.120598,28.843132,Wuxi,无锡,120.297668,31.574614,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,313.8493068,1310,8078
+Pan Lianggui,潘良贵,1094,M,Xiang Ziyin,向子諲,1086,M,Opposed or attacked,反对/攻讦,Jinhua,金华,119.649918,29.104712,Qingjiang,清江,115.398987,28.015566,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,432.4359453,1388,715
+Peng Ruli,彭汝砺,1041,M,Li Xian,李宪,,M,Opposed or attacked,反对/攻讦,Poyang,鄱阳,116.663833,28.994167,Xiangfu,祥符,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,680.1458613,1400,40864
+Peng Siyong,彭思永,1000,M,Zhang Yaozuo,张尧佐,987,M,Opposed or attacked,反对/攻讦,Luling,庐陵,114.971275,27.103239,Gong Xian,巩县,113.051003,34.785107,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,873.5366056,1401,321
+Shi Changyan,施昌言,1001,M,Chen Shi(24),陈湜,1045,M,Opposed or attacked,反对/攻讦,Wu Xian,吴县,120.618622,31.31271,Xucheng,须城,116.282559,35.956072,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,653.8377872,1464,36447
+Sima Guang,司马光,1019,M,Xia Song,夏竦,985,M,Opposed or attacked,反对/攻讦,Xia Xian,夏县,111.220055,35.137451,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,287.2852804,1488,703
+Sima Guang,司马光,1019,M,Pi Gongbi,皮公弼,1016,M,Opposed or attacked,反对/攻讦,Xia Xian,夏县,111.220055,35.137451,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,118.3084166,1488,1405
+Su Zhe,苏辙,1039,M,Zhang Dun,章惇,1035,M,Opposed or attacked,反对/攻讦,Meishan,眉山,103.831459,30.050497,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1448.595137,1493,333
+Su Zhe,苏辙,1039,M,Lu Shimin,陆师闵,1042,M,Opposed or attacked,反对/攻讦,Meishan,眉山,103.831459,30.050497,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1117.495744,1493,1287
+Su Zhe,苏辙,1039,M,Lv Huiqing,吕惠卿,1032,M,Opposed or attacked,反对/攻讦,Meishan,眉山,103.831459,30.050497,Jinjiang,晋江,118.589905,24.909641,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1562.481527,1493,1309
+Sun Gu,孙固,1016,M,Li Xian,李宪,,M,Opposed or attacked,反对/攻讦,Guancheng,管城,113.641312,34.758076,Xiangfu,祥符,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,64.19384092,1532,40864
+Cai Chengxi,蔡承禧,1035,M,Lv Huiqing,吕惠卿,1032,M,Opposed or attacked,反对/攻讦,Linchuan,临川,116.351341,27.984781,Jinjiang,晋江,118.589905,24.909641,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,408.1309733,1645,1309
+Zeng Bu,曾布,1036,M,Chang Li,常立,1049,M,Opposed or attacked,反对/攻讦,Dantu,丹徒,119.4442902,32.20648956,Ruyin,汝阴,115.809013,32.903057,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,349.3844899,1707,24812
+Wang Lun,王纶,1098,M,Qin Gui,秦桧,1090,M,Opposed or attacked,反对/攻讦,Shangyuan,上元,118.76899,32.052563,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,1852,8008
+Wu Mao,吴懋,1080,M,Wang Shiyong,王时雍,1070,M,Opposed or attacked,反对/攻讦,Yixing,宜兴,119.814385,31.363638,Renshou,仁寿,104.143768,30.004446,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1504.850002,1978,1875
+Wu Mao,吴懋,1080,M,Zhang Bangchang,张邦昌,1081,M,Opposed or attacked,反对/攻讦,Yixing,宜兴,119.814385,31.363638,Dongguang,东光,116.532822,37.884556,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,784.6520284,1978,8015
+Zou Hao,邹浩,1060,M,Liu Ding,刘定,1023,M,Opposed or attacked,反对/攻讦,Wujin,武进,119.952301,31.782784,Poyang,鄱阳,116.663833,28.994167,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,442.2624719,3888,1236
+Fan Zuyu,范祖禹,1041,M,Zhang Dun,章惇,1035,M,Opposed or attacked,反对/攻讦,Huayang,华阳,104.077995,30.650385,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1433.442098,7026,333
+Liu Anshi,刘安世,1048,M,Hu Zongyu,胡宗愈,1029,M,Opposed or attacked,反对/攻讦,Yuancheng,元城,115.146522,36.275528,Wujin,武进,119.952301,31.782784,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,667.4049298,7045,833
+Liu Anshi,刘安世,1048,M,Wang Zishao,王子韶,1035,M,Opposed or attacked,反对/攻讦,Yuancheng,元城,115.146522,36.275528,Penglai,蓬莱,120.740502,37.804516,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,524.7046852,7045,7383
+Lv Hui,吕诲,1014,M,Wang Anshi,王安石,1021,M,Opposed or attacked,反对/攻讦,Luoyang,洛阳,112.38263,34.665276,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,832.8037445,7053,1762
+Chen Guan(2),陈瓘,1057,M,Cai Jing,蔡京,1047,M,Opposed or attacked,反对/攻讦,Sha Xian,沙县,117.781792,26.39761,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,146.0669072,7128,1649
+Chen Guan(2),陈瓘,1057,M,Cai Bian,蔡卞,1058,M,Opposed or attacked,反对/攻讦,Sha Xian,沙县,117.781792,26.39761,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,146.0669072,7128,8131
+Chen Guan(2),陈瓘,1057,M,Xiang Zongliang,向宗良,1057,M,Opposed or attacked,反对/攻讦,Sha Xian,沙县,117.781792,26.39761,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,988.8517771,7128,17298
+Chen Guan(2),陈瓘,1057,M,Lin Zi,林自,,M,Opposed or attacked,反对/攻讦,Sha Xian,沙县,117.781792,26.39761,Xinghua,兴化,118.806289,25.620206,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,133.9933569,7128,42062
+Shi Ji,师骥,1079,M,Cai Jing,蔡京,1047,M,Opposed or attacked,反对/攻讦,Pengshan,彭山,103.869247,30.200752,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1551.866159,7330,1649
+Qin Gui,秦桧,1090,M,Zhang Jun,张浚,1097,M,Opposed or attacked,反对/攻讦,Jiangning,江宁,118.76899,32.052563,Hengyang,衡阳,112.597038,26.901617,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,827.3138063,8008,211
+Qin Gui,秦桧,1090,M,He Fengyuan,何逢原,1106,M,Opposed or attacked,反对/攻讦,Jiangning,江宁,118.76899,32.052563,Yongjia,永嘉,120.653221,28.018291,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,483.8446944,8008,679
+Qin Gui,秦桧,1090,M,Weng Mengzhi,翁蒙之,1123,M,Opposed or attacked,反对/攻讦,Jiangning,江宁,118.76899,32.052563,Chong'an,崇安,118.026779,27.756025,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,483.0758374,8008,4031
+Qin Gui,秦桧,1090,M,Yue Lin,岳霖,1133,M,Opposed or attacked,反对/攻讦,Jiangning,江宁,118.76899,32.052563,Guichi,贵池,117.481834,30.654661,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,197.7341428,8008,4143
+Qin Gui,秦桧,1090,M,Zhong Bing,仲并,1102,M,Opposed or attacked,反对/攻讦,Jiangning,江宁,118.76899,32.052563,Jiangdu,江都,119.437187,32.39127,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,73.27657411,8008,7023
+Qin Gui,秦桧,1090,M,Zhong Bing,仲并,1102,M,Opposed or attacked,反对/攻讦,Jiangning,江宁,118.76899,32.052563,Jiangdu,江都,119.437187,32.39127,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,73.27657411,8008,7023
+Zhao Pu,赵普,922,M,Houmochen Liyong,侯莫陈利用,,M,Opposed or attacked,反对/攻讦,Luoyang,洛阳,112.38263,34.665276,Chengdu,成都,104.077995,30.650385,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,896.0291788,8023,43936
+Zhao Ding,赵鼎,1085,M,Zhang Dun,章惇,1035,M,Opposed or attacked,反对/攻讦,Wenxi,闻喜,111.217209,35.357723,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1077.761478,8024,333
+Zhu Shengfei,朱胜非,1082,M,Qin Gui,秦桧,1090,M,Opposed or attacked,反对/攻讦,Wu Xian,吴县,120.618622,31.31271,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,193.3857521,8039,8008
+Hu Su,胡宿,996,M,Wang Yaochen,王尧臣,1003,M,Opposed or attacked,反对/攻讦,Wujin,武进,119.952301,31.782784,Yucheng,虞城,115.887953,34.510823,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,484.8913473,8064,1919
+Hu Su,胡宿,996,M,Wang Yaochen,王尧臣,1003,M,Opposed or attacked,反对/攻讦,Wujin,武进,119.952301,31.782784,Yucheng,虞城,115.887953,34.510823,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,484.8913473,8064,1919
+Li Chuyun,李处耘,920,M,Murong Yanzhao,慕容延钊,918,M,Opposed or attacked,反对/攻讦,Kaifeng,开封,114.34333,34.785477,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,179.6838975,8073,10444
+Li Guang,李光,1078,M,Sun Di,孙觌,1081,M,Opposed or attacked,反对/攻讦,Shangyu,上虞,120.973587,29.952654,Wujin,武进,119.952301,31.782784,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,225.6385403,8079,7343
+Li Bing,李邴,1085,M,Miao Fu,苗傅,1066,M,Opposed or attacked,反对/攻讦,Jinjiang,晋江,118.589905,24.909641,Qiantang,钱塘,120.168625,30.294125,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,618.5819634,8082,20727
+Lv Yijian,吕夷简,979,M,Yang Shi(Fei of Zhao Heng  ),杨氏(赵恒妃),984,F,Opposed or attacked,反对/攻讦,Kaifeng,开封,114.34333,34.785477,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,8100,4215
+Lv Yijian,吕夷简,979,M,Guo Shi(Wife of Zhao Zhen ),郭氏(赵祯妻),1009,F,Opposed or attacked,反对/攻讦,Kaifeng,开封,114.34333,34.785477,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,8100,4216
+Ma Zhijie,马知节,955,M,Wang Qinruo,王钦若,962,M,Opposed or attacked,反对/攻讦,Xiangfu,祥符,114.34333,34.785477,Xinyu,新喻,114.931137,27.804075,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,778.2989022,8103,1768
+Wang Dan,王旦,957,M,Zhang Shide,张师德,981,M,Opposed or attacked,反对/攻讦,Kaifeng,开封,114.34333,34.785477,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,179.6838975,8153,280
+Yue Fei,岳飞,1103,M,Huang Qianshan,黄潜善,1066,M,Opposed or attacked,反对/攻讦,Xiang Zhou,相州,114.34549,36.098343,Shaowu,邵武,117.483398,27.337692,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1018.170427,8175,8065
+Yue Fei,岳飞,1103,M,Wang Boyan,汪伯彦,1069,M,Opposed or attacked,反对/攻讦,Xiang Zhou,相州,114.34549,36.098343,Qimen,祁门,117.706978,29.854147,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,761.6948143,8175,8142
+Hong Hao,洪皓,1088,M,Qin Gui,秦桧,1090,M,Opposed or attacked,反对/攻讦,Poyang,鄱阳,116.663833,28.994167,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,395.3390927,10156,8008
+Liu Yun,刘筠,970,M,Ding Wei,丁谓,966,M,Opposed or attacked,反对/攻讦,Yuancheng,元城,115.146522,36.275528,Changzhou,长洲,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,748.1910507,10623,1641
+Chen Cisheng,陈次升,1044,M,Zeng Bu,曾布,1036,M,Opposed or attacked,反对/攻讦,Xianyou,仙游,118.68367,25.36455727,Dantu,丹徒,119.4442902,32.20648956,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,764.3836961,11080,1707
+Gao Shi(Wife of Zhao Shu),高氏(赵曙妻),1032,F,Wang Anshi,王安石,1021,M,Opposed or attacked,反对/攻讦,Bo Zhou,亳州,115.7709045,33.87929153,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,657.7702798,11688,1762
+Yang Huizhi,杨徽之,920,M,Kou Zhun,寇准,961,M,Opposed or attacked,反对/攻讦,Pucheng,浦城,118.536255,27.924686,Xiagui,下邽,109.50959,34.729103,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1142.521582,12941,898
+Yang Huizhi,杨徽之,920,M,Wen Zhongshu,温仲舒,947,M,Opposed or attacked,反对/攻讦,Pucheng,浦城,118.536255,27.924686,Xin'an,新安,112.144302,34.733059,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,969.9047673,12941,1950
+Ye Zuxia,叶祖洽,1055,M,Cai Que,蔡确,1029,M,Opposed or attacked,反对/攻讦,Shangyuan,上元,118.76899,32.052563,Jinjiang,晋江,118.589905,24.909641,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,794.4501795,14584,1647
+Ye Zuxia,叶祖洽,1055,M,Wang Gui,王珪,1019,M,Opposed or attacked,反对/攻讦,Shangyuan,上元,118.76899,32.052563,Dongming,东明,114.859356,34.92438,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,483.0602398,14584,1845
+Xing Huan,邢焕,1069,M,Huang Qianshan,黄潜善,1066,M,Opposed or attacked,反对/攻讦,Qiantang,钱塘,120.168625,30.294125,Shaowu,邵武,117.483398,27.337692,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,420.0941291,17713,8065
+Xing Huan,邢焕,1069,M,Wang Boyan,汪伯彦,1069,M,Opposed or attacked,反对/攻讦,Qiantang,钱塘,120.168625,30.294125,Qimen,祁门,117.706978,29.854147,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,241.8677032,17713,8142
+Huang Ce(2),黄策,1070,M,Cai Jing,蔡京,1047,M,Opposed or attacked,反对/攻讦,Wu Xian,吴县,120.618622,31.31271,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,687.937302,18946,1649
+Liu Shi(Empress of Zhao Heng  ),刘氏(赵恒皇后),969,F,Cheng Lin,程琳,988,M,Opposed or attacked,反对/攻讦,Yangqu,阳曲,112.736015,38.08202,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,381.2392147,20453,118
+Wang Gongyan,王公彦,1068,M,Zhang Dun,章惇,1035,M,Opposed or attacked,反对/攻讦,Yongjia,永嘉,120.653221,28.018291,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,208.1552307,24987,333
+Gao Deng,高登,1085,M,Chong Shidao,种师道,1063,M,Opposed or attacked,反对/攻讦,Zhangpu,漳浦,117.610733,24.117096,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1277.029886,27773,8040
+Li Binwang,李宾王,1064,M,Zhang Bangchang,张邦昌,1081,M,Opposed or attacked,反对/攻讦,Pingjiang,平江,113.574943,28.709812,Dongguang,东光,116.532822,37.884556,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1056.398731,36581,8015
+Tang Zhong,唐重,1083,M,Cai Jing,蔡京,1047,M,Opposed or attacked,反对/攻讦,Pengshan,彭山,103.869247,30.200752,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1551.866159,43676,1649
+An Dun,安惇,1042,M,Li Jie,李阶,1073,M,Opposed by or attacked by,遭到Y的反对/攻讦,Qujiang,渠江,106.631752,30.47769,Guangze,光泽,117.333252,27.539524,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1090.19995,1,13710
+Chen Zhizhong,陈执中,990,M,Lv Zhen,吕溱,1008,M,Opposed by or attacked by,遭到Y的反对/攻讦,Kaifeng,开封,114.34333,34.785477,She Xian,歙县,118.433945,29.86577,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,668.4148722,34,1292
+Cheng Lin,程琳,988,M,Liu Shi(Empress of Zhao Heng  ),刘氏(赵恒皇后),969,F,Opposed by or attacked by,遭到Y的反对/攻讦,Luoyang,洛阳,112.38263,34.665276,Yangqu,阳曲,112.736015,38.08202,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,381.2392147,118,20453
+Zhang Shangying,张商英,1043,M,Hong Yansheng,洪彦升,1049,M,Opposed by or attacked by,遭到Y的反对/攻讦,Xinjin,新津,103.810936,30.423536,Poyang,鄱阳,116.663833,28.994167,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1250.754776,272,10154
+Zhang Dun,章惇,1035,M,Chao Duanyan,晁端彦,1035,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,860.2870588,333,14
+Zhang Dun,章惇,1035,M,Han Zhen,韩缜,1019,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Yongqiu,雍邱,114.76066,34.49547,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,813.9120384,333,634
+Zhang Dun,章惇,1035,M,Li Shen,李深,1046,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Guangze,光泽,117.333252,27.539524,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,125.9094501,333,1073
+Zhang Dun,章惇,1035,M,Su Zhe,苏辙,1039,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Meishan,眉山,103.831459,30.050497,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1448.595137,333,1493
+Zhang Dun,章惇,1035,M,Wang Zhen,王震,1046,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Shen Xian,莘县,115.665085,36.236708,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,962.8811634,333,3947
+Zhang Dun,章惇,1035,M,Fan Zuyu,范祖禹,1041,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Huayang,华阳,104.077995,30.650385,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1433.442098,333,7026
+Zhang Dun,章惇,1035,M,Zhao Ding,赵鼎,1085,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Wenxi,闻喜,111.217209,35.357723,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1077.761478,333,8024
+Zhang Dun,章惇,1035,M,Liu Zhi,刘挚,1027,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Xucheng,须城,116.282559,35.956072,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,917.9330263,333,8089
+Zhang Dun,章惇,1035,M,Tan Gu,檀固,1043,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Jiande,建德,117.034592,30.124186,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,284.8316177,333,18486
+Zhang Dun,章惇,1035,M,Zhao Junxi,赵君锡,984,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,950.121383,333,24379
+Zhang Dun,章惇,1035,M,Chen You(3),陈祐,1043,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Jingyan,井研,104.077438,29.65851,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1421.158822,333,24880
+Zhang Dun,章惇,1035,M,Wang Gongyan,王公彦,1068,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Yongjia,永嘉,120.653221,28.018291,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,208.1552307,333,24987
+Zhang Dun,章惇,1035,M,Gong Guai,龚夬,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Hejian,河间,116.085533,38.435699,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1190.677639,333,25033
+Zhang Dun,章惇,1035,M,Lin Zongfang,林宗放,1157,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Xuancheng,宣城,118.7425,30.946941,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,336.6526249,333,42924
+Zhang Dun,章惇,1035,M,Liu Bo,刘渤,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Pucheng,浦城,118.536255,27.924686,Meishan,眉山,103.831459,30.050497,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1448.595137,333,51767
+Fan Chunren,范纯仁,1027,M,Lai Zhishao,来之邵,1052,M,Opposed by or attacked by,遭到Y的反对/攻讦,Luoyang,洛阳,112.38263,34.665276,Xianping,咸平,114.459076,34.475006,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,191.2927707,559,962
+Fan Chunren,范纯仁,1027,M,Wu Cai,吴材,1058,M,Opposed by or attacked by,遭到Y的反对/攻讦,Luoyang,洛阳,112.38263,34.665276,Longquan,龙泉,119.12091,28.082565,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,971.557248,559,7397
+Fan Chunren,范纯仁,1027,M,Chong Gu,种古,1015,M,Opposed by or attacked by,遭到Y的反对/攻讦,Luoyang,洛阳,112.38263,34.665276,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,559,14313
+Fan Chunren,范纯仁,1027,M,Tan Gu,檀固,1043,M,Opposed by or attacked by,遭到Y的反对/攻讦,Luoyang,洛阳,112.38263,34.665276,Jiande,建德,117.034592,30.124186,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,667.4529995,559,18486
+Fan Chunli,范纯礼,1031,M,Wu Cai,吴材,1058,M,Opposed by or attacked by,遭到Y的反对/攻讦,Luoyang,洛阳,112.38263,34.665276,Longquan,龙泉,119.12091,28.082565,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,971.557248,560,7397
+Han Zhongyan,韩忠彦,1038,M,Chen You(3),陈祐,1043,M,Opposed by or attacked by,遭到Y的反对/攻讦,Anyang,安阳,114.345497,36.098343,Jingyan,井研,104.077438,29.65851,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1195.533384,644,24880
+Xia Song,夏竦,985,M,Sima Guang,司马光,1019,M,Opposed by or attacked by,遭到Y的反对/攻讦,Kaifeng,开封,114.34333,34.785477,Xia Xian,夏县,111.220055,35.137451,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,287.2852804,703,1488
+Xiang Ziyin,向子諲,1086,M,Pan Lianggui,潘良贵,1094,M,Opposed by or attacked by,遭到Y的反对/攻讦,Qingjiang,清江,115.398987,28.015566,Jinhua,金华,119.649918,29.104712,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,432.4359453,715,1388
+Hu Zongyu,胡宗愈,1029,M,Liu Anshi,刘安世,1048,M,Opposed by or attacked by,遭到Y的反对/攻讦,Wujin,武进,119.952301,31.782784,Yuancheng,元城,115.146522,36.275528,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,667.4049298,833,7045
+Kou Zhun,寇准,961,M,Yang Huizhi,杨徽之,920,M,Opposed by or attacked by,遭到Y的反对/攻讦,Xiagui,下邽,109.50959,34.729103,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1142.521582,898,12941
+Gao Ruona,高若讷,997,M,Ouyang Xiu,欧阳修,1007,M,Opposed by or attacked by,遭到Y的反对/攻讦,Yuci,榆次,112.744682,37.678467,Xinzheng,新郑,113.719086,34.397324,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,375.2119782,911,1384
+Lv Huiqing,吕惠卿,1032,M,Su Zhe,苏辙,1039,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jinjiang,晋江,118.589905,24.909641,Meishan,眉山,103.831459,30.050497,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1562.481527,1309,1493
+Lv Huiqing,吕惠卿,1032,M,Cai Chengxi,蔡承禧,1035,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jinjiang,晋江,118.589905,24.909641,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,408.1309733,1309,1645
+Lv Huiqing,吕惠卿,1032,M,Hong Yansheng,洪彦升,1049,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jinjiang,晋江,118.589905,24.909641,Poyang,鄱阳,116.663833,28.994167,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,492.6424379,1309,10154
+Lv Huiqing,吕惠卿,1032,M,Cai Yanxi,蔡延禧,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jinjiang,晋江,118.589905,24.909641,Jiaoshui,胶水,119.94828,36.788235,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1327.144338,1309,12100
+Lv Huiqing,吕惠卿,1032,M,Liu Bo,刘渤,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jinjiang,晋江,118.589905,24.909641,Meishan,眉山,103.831459,30.050497,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1562.481527,1309,51767
+Lv Dafang,吕大防,1027,M,Guo Zhizhang,郭知章,1048,M,Opposed by or attacked by,遭到Y的反对/攻讦,Lantian,蓝田,109.321556,34.153698,Quanjiang,泉江,114.505661,26.327883,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1002.206558,1327,944
+Lv Dafang,吕大防,1027,M,Ye Tao,叶涛,1043,M,Opposed by or attacked by,遭到Y的反对/攻讦,Lantian,蓝田,109.321556,34.153698,Longquan,龙泉,119.12091,28.082565,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1150.503683,1327,7404
+Lv Dafang,吕大防,1027,M,Lin Xi,林希,1027,M,Opposed by or attacked by,遭到Y的反对/攻讦,Lantian,蓝田,109.321556,34.153698,Fuqing,福清,119.381439,25.727917,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1346.621578,1327,8085
+Pi Gongbi,皮公弼,1016,M,Sima Guang,司马光,1019,M,Opposed by or attacked by,遭到Y的反对/攻讦,Luoyang,洛阳,112.38263,34.665276,Xia Xian,夏县,111.220055,35.137451,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,118.3084166,1405,1488
+Sima Guang,司马光,1019,M,Zhang Shangying,张商英,1043,M,Opposed by or attacked by,遭到Y的反对/攻讦,Xia Xian,夏县,111.220055,35.137451,Xinjin,新津,103.810936,30.423536,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,868.1709709,1488,272
+Sima Guang,司马光,1019,M,Xu Jiang,许将,1037,M,Opposed by or attacked by,遭到Y的反对/攻讦,Xia Xian,夏县,111.220055,35.137451,Min Xian,闽县,119.321577,26.073954,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1270.445914,1488,781
+Sima Guang,司马光,1019,M,Lin Xi,林希,1027,M,Opposed by or attacked by,遭到Y的反对/攻讦,Xia Xian,夏县,111.220055,35.137451,Fuqing,福清,119.381439,25.727917,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1305.344806,1488,8085
+Sima Guang,司马光,1019,M,Chen Min,陈敏,1040,M,Opposed by or attacked by,遭到Y的反对/攻讦,Xia Xian,夏县,111.220055,35.137451,Wuxi,无锡,120.297668,31.574614,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,931.024991,1488,15074
+Sima Guang,司马光,1019,M,Yu Yunwen,余允文,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Xia Xian,夏县,111.220055,35.137451,Jianan,建安,118.323784,27.038864,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1125.510751,1488,42030
+Sima Guang,司马光,1019,M,Lin Zi,林自,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Xia Xian,夏县,111.220055,35.137451,Xinghua,兴化,118.806289,25.620206,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1283.299219,1488,42062
+Sima Guang,司马光,1019,M,Gao Jujian,高居简,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Xia Xian,夏县,111.220055,35.137451,Panyu,番禺,113.256066,23.134624,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1349.122395,1488,43825
+Ding Wei,丁谓,966,M,Chen Yan,陈琰,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Changzhou,长洲,120.618622,31.31271,Puyang,濮阳,115.078057,35.650175,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,704.4919575,1641,100
+Ding Wei,丁谓,966,M,Zhou Jiazheng,周嘉正,970,M,Opposed by or attacked by,遭到Y的反对/攻讦,Changzhou,长洲,120.618622,31.31271,Hailing,海陵,119.91124,32.495872,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,147.5365077,1641,480
+Ding Wei,丁谓,966,M,Liu Yun,刘筠,970,M,Opposed by or attacked by,遭到Y的反对/攻讦,Changzhou,长洲,120.618622,31.31271,Yuancheng,元城,115.146522,36.275528,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,748.1910507,1641,10623
+Ding Wei,丁谓,966,M,Li Zhongji,黎仲吉,962,M,Opposed by or attacked by,遭到Y的反对/攻讦,Changzhou,长洲,120.618622,31.31271,Qianhua,虔化,116.010101,26.466515,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,701.0248444,1641,19545
+Zeng Bu,曾布,1036,M,Chen Cisheng,陈次升,1044,M,Opposed by or attacked by,遭到Y的反对/攻讦,Dantu,丹徒,119.4442902,32.20648956,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,764.3836961,1707,11080
+Wang Anshi,王安石,1021,M,Li Shizhong,李师中,1013,M,Opposed by or attacked by,遭到Y的反对/攻讦,Linchuan,临川,116.351341,27.984781,Xucheng,须城,116.282559,35.956072,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,886.3920331,1762,1078
+Wang Anshi,王安石,1021,M,Sun Sheng,孙升,1035,M,Opposed by or attacked by,遭到Y的反对/攻讦,Linchuan,临川,116.351341,27.984781,Gaoyou,高邮,119.437332,32.79071,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,610.8097405,1762,1542
+Wang Anshi,王安石,1021,M,Tang Jiong,唐垧,1035,M,Opposed by or attacked by,遭到Y的反对/攻讦,Linchuan,临川,116.351341,27.984781,Qiantang,钱塘,120.168625,30.294125,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,450.9340096,1762,3828
+Wang Anshi,王安石,1021,M,Lv Hui,吕诲,1014,M,Opposed by or attacked by,遭到Y的反对/攻讦,Linchuan,临川,116.351341,27.984781,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,832.8037445,1762,7053
+Wang Anshi,王安石,1021,M,Gao Shi(Wife of Zhao Shu),高氏(赵曙妻),1032,F,Opposed by or attacked by,遭到Y的反对/攻讦,Linchuan,临川,116.351341,27.984781,Bo Zhou,亳州,115.7709045,33.87929153,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,657.7702798,1762,11688
+Wang Anshi,王安石,1021,M,Sheng Tao,盛陶,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Linchuan,临川,116.351341,27.984781,Guancheng,管城,113.641312,34.758076,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,795.7868122,1762,12124
+Wang Anshi,王安石,1021,M,Zhao Cuizhong,赵粹中,1124,M,Opposed by or attacked by,遭到Y的反对/攻讦,Linchuan,临川,116.351341,27.984781,Yin Xian,鄞县,121.542656,29.866316,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,546.7639674,1762,25203
+Wang Anshi,王安石,1021,M,Wei Yanzhi,魏掞之,1116,M,Opposed by or attacked by,遭到Y的反对/攻讦,Linchuan,临川,116.351341,27.984781,Jianyang,建阳,118.10537,27.33988,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,187.0360262,1762,27385
+Wang Anshi,王安石,1021,M,Hu Shunyuan,胡舜元,1029,M,Opposed by or attacked by,遭到Y的反对/攻讦,Linchuan,临川,116.351341,27.984781,Tongling,铜陵,117.787499,30.953846,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,358.2140505,1762,43344
+Wang Qinruo,王钦若,962,M,Ma Zhijie,马知节,955,M,Opposed by or attacked by,遭到Y的反对/攻讦,Xinyu,新喻,114.931137,27.804075,Xiangfu,祥符,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,778.2989022,1768,8103
+Wang Chou,王畴,1007,M,Qian Gongfu,钱公辅,1019,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiyin,济阴,115.282862,34.990951,Wujin,武进,119.952301,31.782784,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,561.3066674,1771,147
+Wang Gui,王珪,1019,M,Ye Zuxia,叶祖洽,1055,M,Opposed by or attacked by,遭到Y的反对/攻讦,Dongming,东明,114.859356,34.92438,Shangyuan,上元,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,483.0602398,1845,14584
+Wang Yaochen,王尧臣,1003,M,Hu Su,胡宿,996,M,Opposed by or attacked by,遭到Y的反对/攻讦,Yucheng,虞城,115.887953,34.510823,Wujin,武进,119.952301,31.782784,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,484.8913473,1919,8064
+Wang Yaochen,王尧臣,1003,M,Hu Su,胡宿,996,M,Opposed by or attacked by,遭到Y的反对/攻讦,Yucheng,虞城,115.887953,34.510823,Wujin,武进,119.952301,31.782784,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,484.8913473,1919,8064
+Yan Shu,晏殊,991,M,Yan Wenying,阎文应,977,M,Opposed by or attacked by,遭到Y的反对/攻讦,Yangdi,阳翟,113.467056,34.162491,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,106.0696717,2073,4117
+Hu Yuan,胡瑗,993,M,Lin Zi,林自,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Rugao,如皋,120.558662,32.384022,Xinghua,兴化,118.806289,25.620206,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,771.1270248,3404,42062
+Su Shi,苏轼,1036,M,Jia Yi,贾易,1050,M,Opposed by or attacked by,遭到Y的反对/攻讦,Meishan,眉山,103.831459,30.050497,Wuwei,无为,117.911316,31.298515,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1352.746162,3767,440
+Su Shi,苏轼,1036,M,Sun Sheng,孙升,1035,M,Opposed by or attacked by,遭到Y的反对/攻讦,Meishan,眉山,103.831459,30.050497,Gaoyou,高邮,119.437332,32.79071,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1510.342461,3767,1542
+Su Shi,苏轼,1036,M,Dong Dunyi,董敦逸,1033,M,Opposed by or attacked by,遭到Y的反对/攻讦,Meishan,眉山,103.831459,30.050497,Yongxin,永新,114.23687,26.945564,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1073.32763,3767,1748
+Zou Hao,邹浩,1060,M,An Dun,安惇,1042,M,Opposed by or attacked by,遭到Y的反对/攻讦,Wujin,武进,119.952301,31.782784,Qujiang,渠江,106.631752,30.47769,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1275.341259,3888,1
+Liu Anshi,刘安世,1048,M,Cai Jing,蔡京,1047,M,Opposed by or attacked by,遭到Y的反对/攻讦,Yuancheng,元城,115.146522,36.275528,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1259.099432,7045,1649
+Zeng Zhao,曾肇,1047,M,Tan Gu,檀固,1043,M,Opposed by or attacked by,遭到Y的反对/攻讦,Nanfeng,南丰,116.52993,27.214306,Jiande,建德,117.034592,30.124186,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,327.2875083,7072,18486
+Huang Tingjian,黄庭坚,1045,M,Liu Zheng,刘拯,1040,M,Opposed by or attacked by,遭到Y的反对/攻讦,Fenning,分宁,114.559631,29.038708,Nanling,南陵,118.332405,30.924437,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,419.493158,7111,1178
+Liu Jian,柳瑊,1071,M,Sheng Zhang,盛章,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Wu Xian,吴县,120.618622,31.31271,Xiangyang,襄阳,112.158699,32.026524,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,804.3355875,7291,44344
+Chai Yuxi,柴禹锡,943,M,Mi Dechao,弭德超,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Kaifeng,开封,114.34333,34.785477,Qingchi,清池,117.024101,38.209126,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,449.7780023,8000,8105
+Qin Xi,秦熺,1098,M,Huang Zushun,黄祖舜,1094,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Fuqing,福清,119.381439,25.727917,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,705.7877694,8007,859
+Qin Xi,秦熺,1098,M,Wang Lianqing,王廉清,1127,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Ruyin,汝阴,115.809013,32.903057,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,293.3078961,8007,22253
+Qin Gui,秦桧,1090,M,Zhang Chan,张阐,1094,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Yongjia,永嘉,120.653221,28.018291,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,483.8446944,8008,174
+Qin Gui,秦桧,1090,M,Zhang Jun,张浚,1097,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Hengyang,衡阳,112.597038,26.901617,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,827.3138063,8008,211
+Qin Gui,秦桧,1090,M,Fan Rugui,范如圭,1102,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Jianyang,建阳,118.10537,27.33988,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,527.9286757,8008,575
+Qin Gui,秦桧,1090,M,Han Huang,韩璜,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Hengshan,衡山,112.852417,27.245646,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,782.4016577,8008,648
+Qin Gui,秦桧,1090,M,Li Gongmao,李公懋,1098,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Jianchang,建昌,115.761818,29.087832,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,437.6356752,8008,1055
+Qin Gui,秦桧,1090,M,Ling Jingxia,凌景夏,1112,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Yuhang,余杭,119.9406,30.27177,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,227.2344082,8008,1807
+Qin Gui,秦桧,1090,M,Wang Lun,王纶,1098,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Shangyuan,上元,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,8008,1852
+Qin Gui,秦桧,1090,M,Zhang Shou,张守,1073,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Wujin,武进,119.952301,31.782784,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,115.642634,8008,8017
+Qin Gui,秦桧,1090,M,Zhu Shengfei,朱胜非,1082,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,193.3857521,8008,8039
+Qin Gui,秦桧,1090,M,Hong Hao,洪皓,1088,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Poyang,鄱阳,116.663833,28.994167,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,395.3390927,8008,10156
+Qin Gui,秦桧,1090,M,Wu Bingxin,吴秉信,1091,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Yin Xian,鄞县,121.542656,29.866316,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,359.2005514,8008,10311
+Qin Gui,秦桧,1090,M,Yao Fu,姚孚,1112,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Yin Xian,鄞县,121.542656,29.866316,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,359.2005514,8008,10751
+Qin Gui,秦桧,1090,M,Wang Xihan,王晞韩,1094,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Putian,莆田,119.011101,25.433954,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,736.3344155,8008,11482
+Qin Gui,秦桧,1090,M,Liu Gong(3),刘珙,1122,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Chong'an,崇安,118.026779,27.756025,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,483.0758374,8008,11829
+Qin Gui,秦桧,1090,M,Wang Tinggui,王庭珪,1080,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Anfu,安福,114.608452,27.382462,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,656.4314875,8008,12158
+Qin Gui,秦桧,1090,M,Xiao Sui,萧燧,1123,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Xinyu,新喻,114.931137,27.804075,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,599.8486994,8008,12302
+Qin Gui,秦桧,1090,M,Hong Xingzu,洪兴祖,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Danyang,丹阳,119.569855,31.995802,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,75.76383885,8008,14172
+Qin Gui,秦桧,1090,M,Ren Jinyan,任尽言,1105,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Jiaxing,嘉兴,120.753204,30.767469,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,236.3751113,8008,19089
+Qin Gui,秦桧,1090,M,Fang Chou,方畴,1098,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Yiyang,弋阳,117.421311,28.401876,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,426.0745568,8008,23969
+Qin Gui,秦桧,1090,M,Hu Cheng,胡珵,1091,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Wujin,武进,119.952301,31.782784,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,115.642634,8008,25345
+Qin Gui,秦桧,1090,M,Zhao Shiniao,赵士褭,1082,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Jianan,建安,118.323784,27.038864,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,559.1576154,8008,25412
+Qin Gui,秦桧,1090,M,Jiang Han,江汉,1335,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Jiaxing Lu,嘉兴路,120.7532044,30.76746941,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,236.3751101,8008,39312
+Qin Gui,秦桧,1090,M,Jiang Han,江汉,1335,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Changshan,常山,118.502663,28.903732,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,351.0630094,8008,39312
+Qin Gui,秦桧,1090,M,Wu Dacheng,吴大成,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Zhangpu,漳浦,117.610733,24.117096,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,889.6493242,8008,41764
+Qin Gui,秦桧,1090,M,Xu Tuan,许抟,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Putian,莆田,119.011101,25.433954,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,736.3344155,8008,45328
+Qin Gui,秦桧,1090,M,Chen Gangzhong,陈刚中,1098,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiangning,江宁,118.76899,32.052563,Minqing,闽清,118.862495,26.213224,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,649.3691952,8008,47936
+Zhao Pu,赵普,922,M,Hu Dan,胡旦,948,M,Opposed by or attacked by,遭到Y的反对/攻讦,Luoyang,洛阳,112.38263,34.665276,Bohai,渤海,118.02375,37.36813,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,589.5302508,8023,828
+Zhao Pu,赵普,922,M,Lei Youlin,雷有邻,948,M,Opposed by or attacked by,遭到Y的反对/攻讦,Luoyang,洛阳,112.38263,34.665276,Heyang,郃阳,110.151016,35.242584,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,213.2667102,8023,19523
+Zheng Yong,郑雍,1031,M,Zhang Dun,章惇,1035,M,Opposed by or attacked by,遭到Y的反对/攻讦,Xiangyi,襄邑,115.065971,34.430504,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,795.028298,8030,333
+Jia Changchao,贾昌朝,998,M,Wu Dingchen,吴鼎臣,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Kaifeng,开封,114.34333,34.785477,Yanci,厌次,117.646891,37.295287,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,407.5141224,8031,1984
+Zhu Shengfei,朱胜非,1082,M,Jiang Ji(2),江跻,1076,M,Opposed by or attacked by,遭到Y的反对/攻讦,Wu Xian,吴县,120.618622,31.31271,Kaihua,开化,118.404884,29.14485,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,321.4502005,8039,15423
+Chong Shidao,种师道,1063,M,Gao Deng,高登,1085,M,Opposed by or attacked by,遭到Y的反对/攻讦,Luoyang,洛阳,112.38263,34.665276,Zhangpu,漳浦,117.610733,24.117096,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1277.029886,8040,27773
+He Zhizhong,何执中,1044,M,Hong Yansheng,洪彦升,1049,M,Opposed by or attacked by,遭到Y的反对/攻讦,Longquan,龙泉,119.12091,28.082565,Poyang,鄱阳,116.663833,28.994167,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,260.5371372,8053,10154
+He Zhizhong,何执中,1044,M,Chen Chaolao,陈朝老,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Longquan,龙泉,119.12091,28.082565,Zhenghe,政和,118.853187,27.372105,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,83.2785104,8053,38733
+Li Gang,李纲,1083,M,Quan Bangyan,权邦彦,1080,M,Opposed by or attacked by,遭到Y的反对/攻讦,Wuxi,无锡,120.297668,31.574614,Wuyuan,婺源,117.844589,29.244728,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,349.9152608,8078,165
+Li Gang,李纲,1083,M,Lv Yihao,吕颐浩,1071,M,Opposed by or attacked by,遭到Y的反对/攻讦,Wuxi,无锡,120.297668,31.574614,Linhai,临海,121.120598,28.843132,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,313.8493068,8078,1310
+Li Gang,李纲,1083,M,Yan Qi,颜岐,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Wuxi,无锡,120.297668,31.574614,Pengcheng,彭城,117.187683,34.269634,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,417.1636862,8078,8169
+Li Bangyan,李邦彦,1067,M,Lei Guan,雷观,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Huai Zhou,怀州,112.9369888,35.08930206,Ninghua,宁化,112.100998,38.642059,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,401.9825588,8081,41012
+Li Bangyan,李邦彦,1067,M,Lei Guan,雷观,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Jiaxing,嘉兴,120.753204,30.767469,Ninghua,宁化,112.100998,38.642059,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1178.759846,8081,41012
+Lu Duoxun,卢多逊,934,M,Hu Dan,胡旦,948,M,Opposed by or attacked by,遭到Y的反对/攻讦,Wuzhi,武陟,113.3653565,35.05608749,Bohai,渤海,118.02375,37.36813,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,490.5779749,8095,828
+Lv Yijian,吕夷简,979,M,Sun Mian,孙沔,989,M,Opposed by or attacked by,遭到Y的反对/攻讦,Kaifeng,开封,114.34333,34.785477,Fenghua,奉化,121.406906,29.651657,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,875.5691974,8100,8118
+Wang Boyan,汪伯彦,1069,M,Yue Fei,岳飞,1103,M,Opposed by or attacked by,遭到Y的反对/攻讦,Qimen,祁门,117.706978,29.854147,Xiang Zhou,相州,114.34549,36.098343,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,761.6948143,8142,8175
+Wang Boyan,汪伯彦,1069,M,Chen Dong,陈东,1086,M,Opposed by or attacked by,遭到Y的反对/攻讦,Qimen,祁门,117.706978,29.854147,Danyang,丹阳,119.569855,31.995802,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,297.1173441,8142,14765
+Wang Boyan,汪伯彦,1069,M,Xing Huan,邢焕,1069,M,Opposed by or attacked by,遭到Y的反对/攻讦,Qimen,祁门,117.706978,29.854147,Qiantang,钱塘,120.168625,30.294125,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,241.8677032,8142,17713
+Wang Fu(7),王黼,1079,M,He Li,何?,1085,M,Opposed by or attacked by,遭到Y的反对/攻讦,Kaifeng,开封,114.34333,34.785477,Renshou,仁寿,104.143768,30.004446,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1094.454401,8146,8052
+Wang Fu(7),王黼,1079,M,Chen Chaolao,陈朝老,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Kaifeng,开封,114.34333,34.785477,Zhenghe,政和,118.853187,27.372105,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,929.2039669,8146,38733
+Wang Xian(2),王显,932,M,Mi Dechao,弭德超,,M,Opposed by or attacked by,遭到Y的反对/攻讦,Kaifeng,开封,114.34333,34.785477,Qingchi,清池,117.024101,38.209126,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,449.7780023,8149,8105
+Yang Yuan(3),杨愿,1101,M,Huang Zushun,黄祖舜,1094,M,Opposed by or attacked by,遭到Y的反对/攻讦,Wu Xian,吴县,120.618622,31.31271,Fuqing,福清,119.381439,25.727917,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,632.6385729,8168,859
+Yu Jing,余靖,1000,M,Gao Ruona,高若讷,997,M,Opposed by or attacked by,遭到Y的反对/攻讦,Qujiang,曲江,113.603417,24.810209,Yuci,榆次,112.744682,37.678467,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1433.193392,12319,911
+Xiang Zongliang,向宗良,1057,M,Chen Guan(2),陈瓘,1057,M,Opposed by or attacked by,遭到Y的反对/攻讦,Kaifeng,开封,114.34333,34.785477,Sha Xian,沙县,117.781792,26.39761,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,988.8517771,17298,7128
+Miao Fu,苗傅,1066,M,Zheng Jue,郑瑴,1088,M,Opposed by or attacked by,遭到Y的反对/攻讦,Qiantang,钱塘,120.168625,30.294125,Jianan,建安,118.323784,27.038864,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,404.2299454,20727,8029
+Miao Fu,苗傅,1066,M,Li Bing,李邴,1085,M,Opposed by or attacked by,遭到Y的反对/攻讦,Qiantang,钱塘,120.168625,30.294125,Jinjiang,晋江,118.589905,24.909641,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,618.5819634,20727,8082
+Zhang Kangguo,张康国,1056,M,Cai Jing,蔡京,1047,M,Supported by,得到Y的支持,Jiangdu,江都,119.437187,32.39127,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,784.7648111,248,1649
+Zhang Dun,章惇,1035,M,An Dun,安惇,1042,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Qujiang,渠江,106.631752,30.47769,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1189.19204,333,1
+Zhang Dun,章惇,1035,M,Xie Jingwen,谢景温,1019,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Wujiang,吴江,120.637787,31.167065,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,413.8740273,333,728
+Zhang Dun,章惇,1035,M,Xie Jingwen,谢景温,1019,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Wujiang,吴江,120.637787,31.167065,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,413.8740273,333,728
+Zhang Dun,章惇,1035,M,Lai Zhishao,来之邵,1052,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Xianping,咸平,114.459076,34.475006,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,824.9444719,333,962
+Zhang Dun,章惇,1035,M,Lai Zhishao,来之邵,1052,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Xianping,咸平,114.459076,34.475006,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,824.9444719,333,962
+Zhang Dun,章惇,1035,M,Cai Jing,蔡京,1047,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,285.0503885,333,1649
+Zhang Dun,章惇,1035,M,Dong Bi,董必,1046,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Nanling,南陵,118.332405,30.924437,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,334.1410861,333,1746
+Zhang Dun,章惇,1035,M,Yang Wei,杨畏,1044,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,950.121383,333,2032
+Zhang Dun,章惇,1035,M,Yang Wei,杨畏,1044,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,950.121383,333,2032
+Zhang Dun,章惇,1035,M,Li Xiaoshou,李孝寿,1028,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,860.2870588,333,3503
+Zhang Dun,章惇,1035,M,Huang Lv,黄履,1027,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Shaowu,邵武,117.483398,27.337692,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,122.5479454,333,8066
+Zhou Dunyi,周敦颐,1017,M,Ren Xiyi,任希夷,1145,M,Supported by,得到Y的支持,Yingdao,营道,111.590881,25.531357,Shaowu,邵武,117.483398,27.337692,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,620.0513422,504,19078
+Fan Chunren,范纯仁,1027,M,Feng Ruhui,冯如晦,1016,M,Supported by,得到Y的支持,Luoyang,洛阳,112.38263,34.665276,Anyue,安岳,105.3245163,30.11269951,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,833.5511706,559,610
+Fan Chunren,范纯仁,1027,M,Tan Gu,檀固,1043,M,Supported by,得到Y的支持,Luoyang,洛阳,112.38263,34.665276,Jiande,建德,117.034592,30.124186,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,667.4529995,559,18486
+Fan Chunren,范纯仁,1027,M,Xu Ji,徐勣,1043,M,Supported by,得到Y的支持,Luoyang,洛阳,112.38263,34.665276,Nanling,南陵,118.332405,30.924437,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,694.2531082,559,25044
+Fan Chunren,范纯仁,1027,M,Cai Keming,蔡克明,,M,Supported by,得到Y的支持,Luoyang,洛阳,112.38263,34.665276,[Unknown],[未详],,,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,,559,25051
+Fan Chunren,范纯仁,1027,M,Liu Bo,刘渤,,M,Supported by,得到Y的支持,Luoyang,洛阳,112.38263,34.665276,Meishan,眉山,103.831459,30.050497,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,952.5408133,559,51767
+Fu Bi,富弼,1004,M,Feng Jing,冯京,1021,M,Supported by,得到Y的支持,Wu Xian,吴县,120.618622,31.31271,Wuchang,武昌,114.879906,30.402718,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,556.9836538,628,607
+Fu Bi,富弼,1004,M,Ouyang Xiu,欧阳修,1007,M,Supported by,得到Y的支持,Wu Xian,吴县,120.618622,31.31271,Xinzheng,新郑,113.719086,34.397324,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,729.810821,628,1384
+Fu Bi,富弼,1004,M,Yan Shu,晏殊,991,M,Supported by,得到Y的支持,Wu Xian,吴县,120.618622,31.31271,Yangdi,阳翟,113.467056,34.162491,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,739.9113551,628,2073
+Fu Bi,富弼,1004,M,Shi Jie(2),石介,1005,M,Supported by,得到Y的支持,Wu Xian,吴县,120.618622,31.31271,Fengfu,奉符,117.126519,36.182097,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,630.2860778,628,17935
+Han Qi,韩琦,1008,M,Ouyang Xiu,欧阳修,1007,M,Supported by,得到Y的支持,Anyang,安阳,114.345497,36.098343,Xinzheng,新郑,113.719086,34.397324,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,197.511939,630,1384
+Han Zhongyan,韩忠彦,1038,M,Xu Ji,徐勣,1043,M,Supported by,得到Y的支持,Anyang,安阳,114.345497,36.098343,Nanling,南陵,118.332405,30.924437,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,683.6533646,644,25044
+Hu Ze,胡则,963,M,Ni Zhan,倪展,,M,Supported by,得到Y的支持,Yongkang,永康,120.025253,28.897268,Pujiang,浦江,119.883675,29.458708,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,63.92458565,829,27777
+Kou Zhun,寇准,961,M,Gao Qiong,高琼,935,M,Supported by,得到Y的支持,Xiagui,下邽,109.50959,34.729103,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,441.5883559,898,3441
+Kou Zhun,寇准,961,M,Jia Tong,贾同,,M,Supported by,得到Y的支持,Xiagui,下邽,109.50959,34.729103,Linzi,临淄,118.370405,36.864015,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,833.2972867,898,49250
+Lv Huiqing,吕惠卿,1032,M,Lai Zhishao,来之邵,1052,M,Supported by,得到Y的支持,Jinjiang,晋江,118.589905,24.909641,Xianping,咸平,114.459076,34.475006,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1135.674695,1309,962
+Lv Huiqing,吕惠卿,1032,M,Lai Zhishao,来之邵,1052,M,Supported by,得到Y的支持,Jinjiang,晋江,118.589905,24.909641,Xianping,咸平,114.459076,34.475006,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1135.674695,1309,962
+Lv Huiqing,吕惠卿,1032,M,Pu Zongmeng,蒲宗孟,1023,M,Supported by,得到Y的支持,Jinjiang,晋江,118.589905,24.909641,Nanbu,南部,106.058586,31.359615,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1421.255647,1309,1408
+Lv Yihao,吕颐浩,1071,M,Quan Bangyan,权邦彦,1080,M,Supported by,得到Y的支持,Linhai,临海,121.120598,28.843132,Wuyuan,婺源,117.844589,29.244728,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,321.5717364,1310,165
+Lv Dafang,吕大防,1027,M,Deng Runfu,邓润甫,1019,M,Supported by,得到Y的支持,Lantian,蓝田,109.321556,34.153698,Nancheng,南城,116.627449,27.559717,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1011.273743,1327,8126
+Lv Dafang,吕大防,1027,M,Tan Gu,檀固,1043,M,Supported by,得到Y的支持,Lantian,蓝田,109.321556,34.153698,Jiande,建德,117.034592,30.124186,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,852.914095,1327,18486
+Lv Dafang,吕大防,1027,M,Tan Gu,檀固,1043,M,Supported by,得到Y的支持,Lantian,蓝田,109.321556,34.153698,Jiande,建德,117.034592,30.124186,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,852.914095,1327,18486
+Pan Mei,潘美,921,M,Yuan Yan,袁彦,,M,Supported by,得到Y的支持,Yuancheng,元城,115.146522,36.275528,Hedong Dao,河东道,,,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,,1389,44519
+Sima Guang,司马光,1019,M,Li Shizhong,李师中,1013,M,Supported by,得到Y的支持,Xia Xian,夏县,111.220055,35.137451,Xucheng,须城,116.282559,35.956072,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,466.9181024,1488,1078
+Sima Guang,司马光,1019,M,Cai Jing,蔡京,1047,M,Supported by,得到Y的支持,Xia Xian,夏县,111.220055,35.137451,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1300.829627,1488,1649
+Sima Guang,司马光,1019,M,Wu Chong,吴充,1021,M,Supported by,得到Y的支持,Xia Xian,夏县,111.220055,35.137451,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1059.496557,1488,1960
+Sima Guang,司马光,1019,M,Gao Shi(Wife of Zhao Shu),高氏(赵曙妻),1032,F,Supported by,得到Y的支持,Xia Xian,夏县,111.220055,35.137451,Bo Zhou,亳州,115.7709045,33.87929153,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,439.7826321,1488,11688
+Sima Guang,司马光,1019,M,Shao Cai,邵材,1043,M,Supported by,得到Y的支持,Xia Xian,夏县,111.220055,35.137451,Yixing,宜兴,119.814385,31.363638,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,902.1659447,1488,20840
+Sima Guang,司马光,1019,M,Shao Cai,邵材,1043,M,Supported by,得到Y的支持,Xia Xian,夏县,111.220055,35.137451,Yixing,宜兴,119.814385,31.363638,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,902.1659447,1488,20840
+Sima Guang,司马光,1019,M,Wang Gongyan,王公彦,1068,M,Supported by,得到Y的支持,Xia Xian,夏县,111.220055,35.137451,Yongjia,永嘉,120.653221,28.018291,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1192.685563,1488,24987
+Sima Guang,司马光,1019,M,Zhao Cuizhong,赵粹中,1124,M,Supported by,得到Y的支持,Xia Xian,夏县,111.220055,35.137451,Yin Xian,鄞县,121.542656,29.866316,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1130.685295,1488,25203
+Sima Guang,司马光,1019,M,Ma Tianji,马天骥,1200,M,Supported by,得到Y的支持,Xia Xian,夏县,111.220055,35.137451,Qu Zhou,衢州,118.8676453,28.95682144,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,995.2589535,1488,44257
+Sima Guang,司马光,1019,M,Chen Zhu,陈洙,1012,M,Supported by,得到Y的支持,Xia Xian,夏县,111.220055,35.137451,Jianyang,建阳,118.10537,27.33988,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1085.707742,1488,47425
+Sima Guang,司马光,1019,M,Liu Bo,刘渤,,M,Supported by,得到Y的支持,Xia Xian,夏县,111.220055,35.137451,Meishan,眉山,103.831459,30.050497,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,893.4087942,1488,51767
+Su Zhe,苏辙,1039,M,Li Zhichun,李之纯,,M,Supported by,得到Y的支持,Meishan,眉山,103.831459,30.050497,Wudi,无棣,117.401329,37.851643,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1520.230602,1493,1000
+Su Zhe,苏辙,1039,M,Li Zhichun,李之纯,,M,Supported by,得到Y的支持,Meishan,眉山,103.831459,30.050497,Shanyang,山阳,119.141106,33.502789,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1495.618848,1493,1000
+Su Zhe,苏辙,1039,M,Yang Wei,杨畏,1044,M,Supported by,得到Y的支持,Meishan,眉山,103.831459,30.050497,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,952.5408133,1493,2032
+Su Zhe,苏辙,1039,M,Yang Wei,杨畏,1044,M,Supported by,得到Y的支持,Meishan,眉山,103.831459,30.050497,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,952.5408133,1493,2032
+Su Zhe,苏辙,1039,M,Tan Gu,檀固,1043,M,Supported by,得到Y的支持,Meishan,眉山,103.831459,30.050497,Jiande,建德,117.034592,30.124186,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1269.628938,1493,18486
+Ding Wei,丁谓,966,M,Lei Yungong,雷允恭,,M,Supported by,得到Y的支持,Changzhou,长洲,120.618622,31.31271,Kaifeng Fu,开封府,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,700.6168642,1641,49309
+Zeng Bu,曾布,1036,M,Wu Cai,吴材,1058,M,Supported by,得到Y的支持,Dantu,丹徒,119.4442902,32.20648956,Longquan,龙泉,119.12091,28.082565,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,459.6123134,1707,7397
+Zu Wuze,祖无择,1011,M,Zheng Xie,郑獬,1022,M,Supported by,得到Y的支持,Shangcai,上蔡,114.226669,33.264837,Anlu,安陆,113.688919,31.263714,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,228.1861757,1717,13378
+Du Yan,杜衍,978,M,Ouyang Xiu,欧阳修,1007,M,Supported by,得到Y的支持,Songcheng,宋城,115.646072,34.447662,Xinzheng,新郑,113.719086,34.397324,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,176.8365933,1730,1384
+Wang Anshi,王安石,1021,M,Xu Xi,徐禧,1043,M,Supported by,得到Y的支持,Linchuan,临川,116.351341,27.984781,Fenning,分宁,114.559631,29.038708,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,210.6655815,1762,753
+Wang Anshi,王安石,1021,M,Shen Jichang,沈季长,1027,M,Supported by,得到Y的支持,Linchuan,临川,116.351341,27.984781,Hu Zhou,湖州,120.0993118,30.86496353,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,484.0117643,1762,1445
+Wang Anshi,王安石,1021,M,Cai Tiao,蔡鞗,1077,M,Supported by,得到Y的支持,Linchuan,临川,116.351341,27.984781,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,372.2560045,1762,4154
+Wang Anshi,王安石,1021,M,Zhao Xu,赵顼,1048,M,Supported by,得到Y的支持,Linchuan,临川,116.351341,27.984781,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,779.7986539,1762,9006
+Wang Anshi,王安石,1021,M,Chang Zhi,常秩,1019,M,Supported by,得到Y的支持,Linchuan,临川,116.351341,27.984781,Ruyin,汝阴,115.809013,32.903057,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,549.3506707,1762,24811
+Cheng Yi,程颐,1033,M,Fang Zhou,方宙,1043,M,Supported by,得到Y的支持,Luoyang,洛阳,112.38263,34.665276,Putian,莆田,119.011101,25.433954,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1207.809317,3105,595
+Zhang Zai,章縡,1054,M,Zhang Shangying,张商英,1043,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Xinjin,新津,103.810936,30.423536,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1455.28186,3189,272
+Zhang Zai,章縡,1054,M,Xiao Fu,萧服,1059,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Jishui,吉水,115.132248,27.214367,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,344.6861446,3189,3364
+Su Shi,苏轼,1036,M,Li Zhichun,李之纯,,M,Supported by,得到Y的支持,Meishan,眉山,103.831459,30.050497,Wudi,无棣,117.401329,37.851643,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1520.230602,3767,1000
+Su Shi,苏轼,1036,M,Li Zhichun,李之纯,,M,Supported by,得到Y的支持,Meishan,眉山,103.831459,30.050497,Shanyang,山阳,119.141106,33.502789,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1495.618848,3767,1000
+Su Shi,苏轼,1036,M,Li Shizhong,李师中,1013,M,Supported by,得到Y的支持,Meishan,眉山,103.831459,30.050497,Xucheng,须城,116.282559,35.956072,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1332.320312,3767,1078
+Su Shi,苏轼,1036,M,Wang Anli,王安礼,1034,M,Supported by,得到Y的支持,Meishan,眉山,103.831459,30.050497,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1238.186759,3767,1760
+Su Shi,苏轼,1036,M,Liu Bo,刘渤,,M,Supported by,得到Y的支持,Meishan,眉山,103.831459,30.050497,Meishan,眉山,103.831459,30.050497,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,3767,51767
+Song Qiaonian,宋乔年,1047,M,Cai Jing,蔡京,1047,M,Supported by,得到Y的支持,Yongqiu,雍邱,114.76066,34.49547,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1083.124381,3790,1649
+Zong Ze,宗泽,1059,M,Xing Huan,邢焕,1069,M,Supported by,得到Y的支持,Yiwu,义乌,120.071625,29.300087,Qiantang,钱塘,120.168625,30.294125,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,110.9277127,3897,17713
+Zong Ze,宗泽,1059,M,Guo Yong,郭永,1076,M,Supported by,得到Y的支持,Yiwu,义乌,120.071625,29.300087,Yuancheng,元城,115.146522,36.275528,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,901.6364146,3897,46480
+Chang Anmin,常安民,1043,M,An Tao,安焘,1065,M,Supported by,得到Y的支持,Kaifeng,开封,114.34333,34.785477,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,7000,3
+Jia Fan,贾蕃,1020,M,Huang Haoqian,黄好谦,1027,M,Supported by,得到Y的支持,Kaifeng,开封,114.34333,34.785477,Wanqiu,宛邱,114.8824,33.73398,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,126.9834445,7020,844
+Su Shunqin,苏舜钦,1008,M,Zhao Gai,赵槩,996,M,Supported by,得到Y的支持,Kaifeng,开封,114.34333,34.785477,Yucheng,虞城,115.887953,34.510823,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,144.5565443,7064,8022
+Yin Zhu,尹洙,1001,M,Han Qi,韩琦,1008,M,Supported by,得到Y的支持,Luoyang,洛阳,112.38263,34.665276,Anyang,安阳,114.345497,36.098343,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,238.8592663,7104,630
+Yin Zhu,尹洙,1001,M,Liu Yuanyu,刘元瑜,,M,Supported by,得到Y的支持,Luoyang,洛阳,112.38263,34.665276,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,7104,1256
+Zhang Liang,章綡,1062,M,Zhang Shangying,张商英,1043,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Xinjin,新津,103.810936,30.423536,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1455.28186,7159,272
+Zhang Liang,章綡,1062,M,Xiao Fu,萧服,1059,M,Supported by,得到Y的支持,Pucheng,浦城,118.536255,27.924686,Jishui,吉水,115.132248,27.214367,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,344.6861446,7159,3364
+Jiang Bao,江褒,1069,M,Zeng Bu,曾布,1036,M,Supported by,得到Y的支持,Kaihua,开化,118.404884,29.14485,Dantu,丹徒,119.4442902,32.20648956,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,354.6479374,7193,1707
+Qin Gui,秦桧,1090,M,Zhang Nie,张嵲,1096,M,Supported by,得到Y的支持,Jiangning,江宁,118.76899,32.052563,Guanghua,光化,113.464426,31.640304,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,503.0905445,8008,264
+Qin Gui,秦桧,1090,M,Fan Tong,范同,1097,M,Supported by,得到Y的支持,Jiangning,江宁,118.76899,32.052563,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,8008,584
+Qin Gui,秦桧,1090,M,Huang Zushun,黄祖舜,1094,M,Supported by,得到Y的支持,Jiangning,江宁,118.76899,32.052563,Fuqing,福清,119.381439,25.727917,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,705.7877694,8008,859
+Qin Gui,秦桧,1090,M,Lin Yifei,林一飞,1113,M,Supported by,得到Y的支持,Jiangning,江宁,118.76899,32.052563,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,743.719807,8008,1163
+Qin Gui,秦桧,1090,M,Moqi Xie,万俟卨,1083,M,Supported by,得到Y的支持,Jiangning,江宁,118.76899,32.052563,Changshou,长寿,112.589256,31.169827,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,593.2846151,8008,1373
+Qin Gui,秦桧,1090,M,Zhang Jun(2),张俊,1071,M,Supported by,得到Y的支持,Jiangning,江宁,118.76899,32.052563,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,193.3857521,8008,3134
+Qin Gui,秦桧,1090,M,Zhang Xiaoxiang,张孝祥,1132,M,Supported by,得到Y的支持,Jiangning,江宁,118.76899,32.052563,Wuhu,芜湖,118.362618,31.334949,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,88.57458804,8008,3144
+Qin Gui,秦桧,1090,M,Zhang Shao,张邵,1096,M,Supported by,得到Y的支持,Jiangning,江宁,118.76899,32.052563,Yin Xian,鄞县,121.542656,29.866316,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,359.2005514,8008,7163
+Qin Gui,秦桧,1090,M,Zhang Shao,张邵,1096,M,Supported by,得到Y的支持,Jiangning,江宁,118.76899,32.052563,Yin Xian,鄞县,121.542656,29.866316,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,359.2005514,8008,7163
+Qin Gui,秦桧,1090,M,Yang Yuan(3),杨愿,1101,M,Supported by,得到Y的支持,Jiangning,江宁,118.76899,32.052563,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,193.3857521,8008,8168
+Zheng Juzhong,郑居中,1059,M,Liu Siming,刘嗣明,,M,Supported by,得到Y的支持,Kaifeng,开封,114.34333,34.785477,Xiangfu,祥符,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,8027,52065
+Fan Zhongyan,范仲淹,989,M,Xue Kui,薛奎,967,M,Supported by,得到Y的支持,Wu Xian,吴县,120.618622,31.31271,Zhengping,正平,111.216148,35.616409,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,994.1739634,8043,803
+Fan Zhongyan,范仲淹,989,M,Liu Yuanyu,刘元瑜,,M,Supported by,得到Y的支持,Wu Xian,吴县,120.618622,31.31271,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,853.4318079,8043,1256
+Fan Zhongyan,范仲淹,989,M,Yu Jing,余靖,1000,M,Supported by,得到Y的支持,Wu Xian,吴县,120.618622,31.31271,Qujiang,曲江,113.603417,24.810209,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,997.7750467,8043,12319
+Fan Zhongyan,范仲淹,989,M,Shi Jie(2),石介,1005,M,Supported by,得到Y的支持,Wu Xian,吴县,120.618622,31.31271,Fengfu,奉符,117.126519,36.182097,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,630.2860778,8043,17935
+Li Gang,李纲,1083,M,Nie Chang,聂昌,1079,M,Supported by,得到Y的支持,Wuxi,无锡,120.297668,31.574614,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,551.621889,8078,1379
+Li Gang,李纲,1083,M,Cai Xiao,蔡翛,1063,M,Supported by,得到Y的支持,Wuxi,无锡,120.297668,31.574614,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,708.2883018,8078,12036
+Li Gang,李纲,1083,M,Chen Dong,陈东,1086,M,Supported by,得到Y的支持,Wuxi,无锡,120.297668,31.574614,Danyang,丹阳,119.569855,31.995802,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,83.22094394,8078,14765
+Li Gang,李纲,1083,M,Deng Su,邓肃,1091,M,Supported by,得到Y的支持,Wuxi,无锡,120.297668,31.574614,Sha Xian,沙县,117.781792,26.39761,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,625.4470911,8078,27770
+Li Gang,李纲,1083,M,Deng Su,邓肃,1091,M,Supported by,得到Y的支持,Wuxi,无锡,120.297668,31.574614,Sha Xian,沙县,117.781792,26.39761,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,625.4470911,8078,27770
+Li Gang,李纲,1083,M,Gao Deng,高登,1085,M,Supported by,得到Y的支持,Wuxi,无锡,120.297668,31.574614,Zhangpu,漳浦,117.610733,24.117096,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,870.1976925,8078,27773
+Li Gang,李纲,1083,M,Gao Deng,高登,1085,M,Supported by,得到Y的支持,Wuxi,无锡,120.297668,31.574614,Zhangpu,漳浦,117.610733,24.117096,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,870.1976925,8078,27773
+Li Gang,李纲,1083,M,Jiang Zhiyi,江致一,,M,Supported by,得到Y的支持,Wuxi,无锡,120.297668,31.574614,Xiuning,休宁,118.1757736,29.78119087,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,284.4962715,8078,39445
+Li Gang,李纲,1083,M,Xia Yingda,夏颍达,,M,Supported by,得到Y的支持,Wuxi,无锡,120.297668,31.574614,Dexing,德兴,117.580116,28.953411,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,391.2071286,8078,44882
+Li Gang,李纲,1083,M,Chen Hao,陈好,,M,Supported by,得到Y的支持,Wuxi,无锡,120.297668,31.574614,Jinjiang,晋江,118.589905,24.909641,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,759.7193954,8078,47382
+Lu Zongdao,鲁宗道,966,M,Li Wei,李渭,979,M,Supported by,得到Y的支持,Qiao Xian,谯县,115.770905,33.879292,Heyang,河阳,112.785721,34.840869,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,294.1225734,8096,40559
+Lv Yijian,吕夷简,979,M,Shen Mo,沈邈,1008,M,Supported by,得到Y的支持,Kaifeng,开封,114.34333,34.785477,Yiyang,弋阳,117.421311,28.401876,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,767.2334581,8100,1455
+Lv Yijian,吕夷简,979,M,Yan Wenying,阎文应,977,M,Supported by,得到Y的支持,Kaifeng,开封,114.34333,34.785477,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,8100,4117
+Di Qing,狄青,1008,M,Linghu Shan,令狐挻,992,M,Supported by,得到Y的支持,Xihe,西河,111.77903,37.263405,Huai'an,淮安,119.141106,33.502789,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,787.2154265,8127,95228
+Cao Liyong,曹利用,971,M,Zhang Shixun,张士逊,964,M,Supported by,得到Y的支持,Ningjin,宁晋,114.9153976,37.62108612,Guanghua,光化,113.464426,31.640304,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,678.1258714,8133,279
+Wen Yi,温益,1037,M,Cai Jing,蔡京,1047,M,Supported by,得到Y的支持,Jinjiang,晋江,118.589905,24.909641,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,51.4575234,8160,1649
+Yue Fei,岳飞,1103,M,Xu Yang,许暘,1087,M,Supported by,得到Y的支持,Xiang Zhou,相州,114.34549,36.098343,Dantu,丹徒,119.4442902,32.20648956,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,638.0958064,8175,793
+Yue Fei,岳飞,1103,M,Han Shizhong,韩世忠,1090,M,Supported by,得到Y的支持,Xiang Zhou,相州,114.34549,36.098343,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,786.9826071,8175,8050
+Yue Fei,岳飞,1103,M,Zhao Cuizhong,赵粹中,1124,M,Supported by,得到Y的支持,Xiang Zhou,相州,114.34549,36.098343,Yin Xian,鄞县,121.542656,29.866316,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,964.2033756,8175,25203
+Yue Fei,岳飞,1103,M,Zhao Shiniao,赵士褭,1082,M,Supported by,得到Y的支持,Xiang Zhou,相州,114.34549,36.098343,Jianan,建安,118.323784,27.038864,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1075.267989,8175,25412
+Yue Fei,岳飞,1103,M,Shi Qisun,史祺孙,,M,Supported by,得到Y的支持,Xiang Zhou,相州,114.34549,36.098343,Anji,安吉,119.738226,30.744599,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,777.4359993,8175,39165
+Yue Fei,岳飞,1103,M,He Yanyou,何彦猷,,M,Supported by,得到Y的支持,Xiang Zhou,相州,114.34549,36.098343,Gaotang,高唐,116.231,36.86162,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,188.7338872,8175,42152
+Yue Fei,岳飞,1103,M,Xie Ying,谢英,,M,Supported by,得到Y的支持,Xiang Zhou,相州,114.34549,36.098343,Ningxiang,宁乡,112.550476,28.2593,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,887.8276352,8175,52382
+Zhao Kuangyin,赵匡胤,927,M,Dong Zongben,董宗本,896,M,Supported by,得到Y的支持,Kaifeng,开封,114.34333,34.785477,Fanyang,范阳,115.968147,39.487221,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,542.2583115,9001,21847
+Zhao Zhen,赵祯,1010,M,Cao Xiugu,曹修古,970,M,Supported by,得到Y的支持,Kaifeng,开封,114.34333,34.785477,Jianan,建安,118.323784,27.038864,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,941.1233766,9004,3874
+Zhang Zai,张载,1020,M,Zhu Zai,朱在,1155,M,Supported by,得到Y的支持,Mei Xian,郿县,107.796328,34.478271,Chong'an,崇安,118.026779,27.756025,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1226.474721,11658,12978
+Yu Jing,余靖,1000,M,Liu Yuanyu,刘元瑜,,M,Supported by,得到Y的支持,Qujiang,曲江,113.603417,24.810209,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1102.124909,12319,1256
+Yu Jing,余靖,1000,M,Shi Jie(2),石介,1005,M,Supported by,得到Y的支持,Qujiang,曲江,113.603417,24.810209,Fengfu,奉符,117.126519,36.182097,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1308.482538,12319,17935
+Zhang Kuo,张扩,1084,M,Qin Gui,秦桧,1090,M,Supported by,得到Y的支持,Dexing,德兴,117.580116,28.953411,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,362.9370321,13924,8008
+Zheng Xia,郑侠,1041,M,Ouyang Yi,欧阳奕,1037,M,Supported by,得到Y的支持,Fuqing,福清,119.381439,25.727917,Xinzheng,新郑,113.719086,34.397324,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1106.813048,15296,10809
+Meng Yanqing,孟彦卿,1066,M,Xie Chun,谢淳,,M,Supported by,得到Y的支持,Kaifeng,开封,114.34333,34.785477,Liuyang,浏阳,113.621437,28.149572,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,741.0420721,20712,52386
+Meng Shi(Wife of Zhao Xu ),孟氏(赵煦妻),1077,F,Zeng Dan,曾诞,1067,M,Supported by,得到Y的支持,Kaifeng,开封,114.34333,34.785477,Jinjiang,晋江,118.589905,24.909641,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1171.672593,20713,12784
+Miao Fu,苗傅,1066,M,Fan Qiong,范琼,1066,M,Supported by,得到Y的支持,Qiantang,钱塘,120.168625,30.294125,Kaifeng Fu,开封府,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,739.719154,20727,41765
+Liu Yi(10),刘錡,1098,M,Hu Xian,胡宪,1086,M,Supported by,得到Y的支持,Chengji,成纪,105.7258,34.5853,Chong'an,崇安,118.026779,27.756025,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1393.387696,24320,11872
+Li Shi(Mother of Zhao Zhen),李氏(赵祯母),987,F,Lv Yijian,吕夷简,979,M,Supported by,得到Y的支持,Hang Zhou,杭州,120.1686249,30.2941246,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,739.7191763,41149,8100
+Ma Shen,马伸,1066,M,Xing Huan,邢焕,1069,M,Supported by,得到Y的支持,Dongping Fu,东平府,116.2991715,35.91034317,Qiantang,钱塘,120.168625,30.294125,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,720.8704546,41212,17713
+Fan Qiong,范琼,1066,M,Miao Fu,苗傅,1066,M,Supported by,得到Y的支持,Kaifeng Fu,开封府,114.34333,34.785477,Qiantang,钱塘,120.168625,30.294125,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,739.719154,41765,20727
+Shi Tingchen,施庭臣,1084,M,Goulong Ruyuan,句龙如渊,1093,M,Supported by,得到Y的支持,Chengdu,成都,104.077995,30.650385,Daojiang,导江,103.713741,31.002649,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,52.38324781,43184,39238
+An Dun,安惇,1042,M,Zhang Dun,章惇,1035,M,Supported,支持,Qujiang,渠江,106.631752,30.47769,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1189.19204,1,333
+An Dun,安惇,1042,M,Cai Bian,蔡卞,1058,M,Supported,支持,Qujiang,渠江,106.631752,30.47769,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1312.45219,1,8131
+Zhang Shangying,张商英,1043,M,Zhang Zai,章縡,1054,M,Supported,支持,Xinjin,新津,103.810936,30.423536,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1455.28186,272,3189
+Zhang Shangying,张商英,1043,M,Zhang Yan,章綖,1065,M,Supported,支持,Xinjin,新津,103.810936,30.423536,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1605.688918,272,3190
+Zhang Shangying,张商英,1043,M,Zhang Liang,章綡,1062,M,Supported,支持,Xinjin,新津,103.810936,30.423536,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1455.28186,272,7159
+Zhang Shixun,张士逊,964,M,Cao Liyong,曹利用,971,M,Supported,支持,Guanghua,光化,113.464426,31.640304,Ningjin,宁晋,114.9153976,37.62108612,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,678.1258714,279,8133
+Zhang Dun,章惇,1035,M,Lin Xi,林希,1027,M,Supported,支持,Pucheng,浦城,118.536255,27.924686,Fuqing,福清,119.381439,25.727917,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,258.2629516,333,8085
+Zhang Dun,章惇,1035,M,Cai Mao,蔡懋,1059,M,Supported,支持,Pucheng,浦城,118.536255,27.924686,Jinjiang,晋江,118.589905,24.909641,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,335.3007319,333,8130
+Fan Tong,范同,1097,M,Qin Gui,秦桧,1090,M,Supported,支持,Jiangning,江宁,118.76899,32.052563,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,584,8008
+Fan Tong,范同,1097,M,Zhang Tong,张通,,M,Supported,支持,Jiangning,江宁,118.76899,32.052563,Yan Zhou,延州,109.4699097,36.59180832,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,991.2636772,584,46745
+Feng Jing,冯京,1021,M,Fu Bi,富弼,1004,M,Supported,支持,Wuchang,武昌,114.879906,30.402718,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,556.9836538,607,628
+Han Qi,韩琦,1008,M,Yin Zhu,尹洙,1001,M,Supported,支持,Anyang,安阳,114.345497,36.098343,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,238.8592663,630,7104
+Han Qi,韩琦,1008,M,Hu Hui,胡恢,,M,Supported,支持,Anyang,安阳,114.345497,36.098343,Jiangning Fu,江宁府,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,606.7804863,630,42912
+Han Qi,韩琦,1008,M,Zhu Zi,祝谘,1009,M,Supported,支持,Anyang,安阳,114.345497,36.098343,Chengwu,成武,115.875175,34.962231,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,187.3985057,630,44409
+Xue Kui,薛奎,967,M,Fan Zhongyan,范仲淹,989,M,Supported,支持,Zhengping,正平,111.216148,35.616409,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,994.1739634,803,8043
+Li Shizhong,李师中,1013,M,Sima Guang,司马光,1019,M,Supported,支持,Xucheng,须城,116.282559,35.956072,Xia Xian,夏县,111.220055,35.137451,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,466.9181024,1078,1488
+Li Shizhong,李师中,1013,M,Su Shi,苏轼,1036,M,Supported,支持,Xucheng,须城,116.282559,35.956072,Meishan,眉山,103.831459,30.050497,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1332.320312,1078,3767
+Moqi Xie,万俟卨,1083,M,Qin Gui,秦桧,1090,M,Supported,支持,Changshou,长寿,112.589256,31.169827,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,593.2846151,1373,8008
+Shen Jichang,沈季长,1027,M,Wang Anshi,王安石,1021,M,Supported,支持,Hu Zhou,湖州,120.0993118,30.86496353,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,484.0117643,1445,1762
+Su Anshi,苏安世,996,M,Ouyang Xiu,欧阳修,1007,M,Supported,支持,Kaifeng,开封,114.34333,34.785477,Xinzheng,新郑,113.719086,34.397324,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,71.61028643,1489,1384
+Ding Wei,丁谓,966,M,Li Pu,李溥,938,M,Supported,支持,Changzhou,长洲,120.618622,31.31271,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,853.4318079,1641,1022
+Zeng Bu,曾布,1036,M,Jiang Bao,江褒,1069,M,Supported,支持,Dantu,丹徒,119.4442902,32.20648956,Kaihua,开化,118.404884,29.14485,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,354.6479374,1707,7193
+Wang Anli,王安礼,1034,M,Su Shi,苏轼,1036,M,Supported,支持,Linchuan,临川,116.351341,27.984781,Meishan,眉山,103.831459,30.050497,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1238.186759,1760,3767
+Wang Anshi,王安石,1021,M,Xue Xiang,薛向,1013,M,Supported,支持,Linchuan,临川,116.351341,27.984781,Chang'an,长安,108.906976,34.246423,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,992.862936,1762,800
+Wang Zudao,王祖道,1045,M,Cai Jing,蔡京,1047,M,Supported,支持,Min Xian,闽县,119.321577,26.073954,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,101.518606,1902,1649
+Wu Chong,吴充,1021,M,Sima Guang,司马光,1019,M,Supported,支持,Pucheng,浦城,118.536255,27.924686,Xia Xian,夏县,111.220055,35.137451,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1059.496557,1960,1488
+Yang Wei,杨畏,1044,M,Zhang Dun,章惇,1035,M,Supported,支持,Luoyang,洛阳,112.38263,34.665276,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,950.121383,2032,333
+Yang Wei,杨畏,1044,M,Zhang Dun,章惇,1035,M,Supported,支持,Luoyang,洛阳,112.38263,34.665276,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,950.121383,2032,333
+Yang Wei,杨畏,1044,M,Su Zhe,苏辙,1039,M,Supported,支持,Luoyang,洛阳,112.38263,34.665276,Meishan,眉山,103.831459,30.050497,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,952.5408133,2032,1493
+Yang Wei,杨畏,1044,M,Su Zhe,苏辙,1039,M,Supported,支持,Luoyang,洛阳,112.38263,34.665276,Meishan,眉山,103.831459,30.050497,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,952.5408133,2032,1493
+Yang Wei,杨畏,1044,M,Cai Jing,蔡京,1047,M,Supported,支持,Luoyang,洛阳,112.38263,34.665276,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1198.295197,2032,1649
+Yan Shu,晏殊,991,M,Fu Bi,富弼,1004,M,Supported,支持,Yangdi,阳翟,113.467056,34.162491,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,739.9113551,2073,628
+Xiao Fu,萧服,1059,M,Zhang Zai,章縡,1054,M,Supported,支持,Jishui,吉水,115.132248,27.214367,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,344.6861446,3364,3189
+Xiao Fu,萧服,1059,M,Zhang Yan,章綖,1065,M,Supported,支持,Jishui,吉水,115.132248,27.214367,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,700.4497863,3364,3190
+Xiao Fu,萧服,1059,M,Zhang Liang,章綡,1062,M,Supported,支持,Jishui,吉水,115.132248,27.214367,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,344.6861446,3364,7159
+Gao Qiong,高琼,935,M,Kou Zhun,寇准,961,M,Supported,支持,Kaifeng,开封,114.34333,34.785477,Xiagui,下邽,109.50959,34.729103,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,441.5883559,3441,898
+Cao Xiugu,曹修古,970,M,Zhao Zhen,赵祯,1010,M,Supported,支持,Jianan,建安,118.323784,27.038864,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,941.1233766,3874,9004
+Zhang Shao,张邵,1096,M,Qin Gui,秦桧,1090,M,Supported,支持,Yin Xian,鄞县,121.542656,29.866316,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,359.2005514,7163,8008
+Zhang Shao,张邵,1096,M,Qin Gui,秦桧,1090,M,Supported,支持,Yin Xian,鄞县,121.542656,29.866316,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,359.2005514,7163,8008
+Qin Gui,秦桧,1090,M,Kang Yuzhi,康与之,,M,Supported,支持,Jiangning,江宁,118.76899,32.052563,Jiaxing,嘉兴,120.753204,30.767469,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,236.3751113,8008,896
+Qin Gui,秦桧,1090,M,Cao Yong,曹泳,,M,Supported,支持,Jiangning,江宁,118.76899,32.052563,Lingshou,灵寿,114.365883,38.30547,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,801.9687607,8008,1673
+Qin Gui,秦桧,1090,M,Zhang Kuo,张扩,1084,M,Supported,支持,Jiangning,江宁,118.76899,32.052563,Dexing,德兴,117.580116,28.953411,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,362.9370321,8008,13924
+Qin Gui,秦桧,1090,M,Chen Yaochen,陈尧臣,1091,M,Supported,支持,Jiangning,江宁,118.76899,32.052563,Qiantang,钱塘,120.168625,30.294125,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,236.5592461,8008,23504
+Qin Gui,秦桧,1090,M,Chen Yaochen,陈尧臣,1091,M,Supported,支持,Jiangning,江宁,118.76899,32.052563,Qiantang,钱塘,120.168625,30.294125,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,236.5592461,8008,23504
+Zhao Gai,赵槩,996,M,Su Shunqin,苏舜钦,1008,M,Supported,支持,Yucheng,虞城,115.887953,34.510823,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,144.5565443,8022,7064
+Zheng Juzhong,郑居中,1059,M,Cai Jing,蔡京,1047,M,Supported,支持,Kaifeng,开封,114.34333,34.785477,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1127.387191,8027,1649
+Fan Zongyin,范宗尹,1073,M,Zhang Bangchang,张邦昌,1081,M,Supported,支持,Linhai,临海,121.120598,28.843132,Dongguang,东光,116.532822,37.884556,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1091.506535,8044,8015
+Han Shizhong,韩世忠,1090,M,Yue Fei,岳飞,1103,M,Supported,支持,Wu Xian,吴县,120.618622,31.31271,Xiang Zhou,相州,114.34549,36.098343,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,786.9826071,8050,8175
+Lv Yijian,吕夷简,979,M,Li Shi(Mother of Zhao Zhen),李氏(赵祯母),987,F,Supported,支持,Kaifeng,开封,114.34333,34.785477,Hang Zhou,杭州,120.1686249,30.2941246,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,739.7191763,8100,41149
+Deng Xunwu,邓洵武,1057,M,Cai Jing,蔡京,1047,M,Supported,支持,Shuangliu,双流,103.923309,30.579893,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1559.555617,8125,1649
+Deng Xunwu,邓洵武,1057,M,Cai Bian,蔡卞,1058,M,Supported,支持,Shuangliu,双流,103.923309,30.579893,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1559.555617,8125,8131
+Wang Fu(7),王黼,1079,M,Cai Jing,蔡京,1047,M,Supported,支持,Kaifeng,开封,114.34333,34.785477,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1127.387191,8146,1649
+Yang Yuan(3),杨愿,1101,M,Qin Gui,秦桧,1090,M,Supported,支持,Wu Xian,吴县,120.618622,31.31271,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,193.3857521,8168,8008
+Zhao Zhen,赵祯,1010,M,Guo Zi,郭谘,,M,Supported,支持,Kaifeng,开封,114.34333,34.785477,Pingji,平棘,114.772179,37.752926,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,332.1967231,9004,46558
+Zhao Xu,赵顼,1048,M,Wang Anshi,王安石,1021,M,Supported,支持,Kaifeng,开封,114.34333,34.785477,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,779.7986539,9006,1762
+Gao Shi(Wife of Zhao Shu),高氏(赵曙妻),1032,F,Sima Guang,司马光,1019,M,Supported,支持,Bo Zhou,亳州,115.7709045,33.87929153,Xia Xian,夏县,111.220055,35.137451,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,439.7826321,11688,1488
+Hu Xian,胡宪,1086,M,Zhang Jun,张浚,1097,M,Supported,支持,Chong'an,崇安,118.026779,27.756025,Hengyang,衡阳,112.597038,26.901617,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,544.671199,11872,211
+Hu Xian,胡宪,1086,M,Liu Yi(10),刘錡,1098,M,Supported,支持,Chong'an,崇安,118.026779,27.756025,Chengji,成纪,105.7258,34.5853,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1393.387696,11872,24320
+Yu Jing,余靖,1000,M,Fan Zhongyan,范仲淹,989,M,Supported,支持,Qujiang,曲江,113.603417,24.810209,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,997.7750467,12319,8043
+Zheng Xie,郑獬,1022,M,Zu Wuze,祖无择,1011,M,Supported,支持,Anlu,安陆,113.688919,31.263714,Shangcai,上蔡,114.226669,33.264837,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,228.1861757,13378,1717
+Zheng Gangzhong,郑刚中,1088,M,Hu Quan,胡铨,1102,M,Supported,支持,Jinhua,金华,119.649918,29.104712,Luling,庐陵,114.971275,27.103239,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,509.9569316,14034,10565
+Xing Huan,邢焕,1069,M,Zong Ze,宗泽,1059,M,Supported,支持,Qiantang,钱塘,120.168625,30.294125,Yiwu,义乌,120.071625,29.300087,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,110.9277127,17713,3897
+Xing Huan,邢焕,1069,M,Ma Shen,马伸,1066,M,Supported,支持,Qiantang,钱塘,120.168625,30.294125,Dongping Fu,东平府,116.2991715,35.91034317,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,720.8704546,17713,41212
+Shi Jie(2),石介,1005,M,Fu Bi,富弼,1004,M,Supported,支持,Fengfu,奉符,117.126519,36.182097,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,630.2860778,17935,628
+Shi Jie(2),石介,1005,M,Fan Zhongyan,范仲淹,989,M,Supported,支持,Fengfu,奉符,117.126519,36.182097,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,630.2860778,17935,8043
+Shi Jie(2),石介,1005,M,Yu Jing,余靖,1000,M,Supported,支持,Fengfu,奉符,117.126519,36.182097,Qujiang,曲江,113.603417,24.810209,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1308.482538,17935,12319
+Miao Fu,苗傅,1066,M,Fan Qiong,范琼,1066,M,Supported,支持,Qiantang,钱塘,120.168625,30.294125,Kaifeng Fu,开封府,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,739.719154,20727,41765
+Miao Fu,苗傅,1066,M,Zhao Fu,赵旉,1137,M,Supported,支持,Qiantang,钱塘,120.168625,30.294125,Kaifeng Fu,开封府,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,739.719154,20727,50105
+Miao Fu,苗傅,1066,M,Zhao Fu,赵旉,1137,M,Supported,支持,Qiantang,钱塘,120.168625,30.294125,Qiantang,钱塘,120.168625,30.294125,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,20727,50105
+Miao Fu,苗傅,1066,M,Zhao Fu,赵旉,1137,M,Supported,支持,Qiantang,钱塘,120.168625,30.294125,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,739.719154,20727,50105
+Chang Zhi,常秩,1019,M,Wang Anshi,王安石,1021,M,Supported,支持,Ruyin,汝阴,115.809013,32.903057,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,549.3506707,24811,1762
+Wang Gongyan,王公彦,1068,M,Sima Guang,司马光,1019,M,Supported,支持,Yongjia,永嘉,120.653221,28.018291,Xia Xian,夏县,111.220055,35.137451,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1192.685563,24987,1488
+Deng Su,邓肃,1091,M,Li Gang,李纲,1083,M,Supported,支持,Sha Xian,沙县,117.781792,26.39761,Wuxi,无锡,120.297668,31.574614,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,625.4470911,27770,8078
+Deng Su,邓肃,1091,M,Li Gang,李纲,1083,M,Supported,支持,Sha Xian,沙县,117.781792,26.39761,Wuxi,无锡,120.297668,31.574614,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,625.4470911,27770,8078
+Gao Deng,高登,1085,M,Li Gang,李纲,1083,M,Supported,支持,Zhangpu,漳浦,117.610733,24.117096,Wuxi,无锡,120.297668,31.574614,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,870.1976925,27773,8078
+Gao Deng,高登,1085,M,Li Gang,李纲,1083,M,Supported,支持,Zhangpu,漳浦,117.610733,24.117096,Wuxi,无锡,120.297668,31.574614,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,870.1976925,27773,8078
+Goulong Ruyuan,句龙如渊,1093,M,Shi Tingchen,施庭臣,1084,M,Supported,支持,Daojiang,导江,103.713741,31.002649,Chengdu,成都,104.077995,30.650385,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,52.38324781,39238,43184
+Li Wei,李渭,979,M,Lu Zongdao,鲁宗道,966,M,Supported,支持,Heyang,河阳,112.785721,34.840869,Qiao Xian,谯县,115.770905,33.879292,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,294.1225734,40559,8096
+Fan Qiong,范琼,1066,M,Miao Fu,苗傅,1066,M,Supported,支持,Kaifeng Fu,开封府,114.34333,34.785477,Qiantang,钱塘,120.168625,30.294125,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,739.719154,41765,20727
+Linghu Shan,令狐挻,992,M,Di Qing,狄青,1008,M,Supported,支持,Huai'an,淮安,119.141106,33.502789,Xihe,西河,111.77903,37.263405,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,787.2154265,95228,8127
+An Dun,安惇,1042,M,Sima Guang,司马光,1019,M,Disagreed with views of,不合,Qujiang,渠江,106.631752,30.47769,Xia Xian,夏县,111.220055,35.137451,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,672.383603,1,1488
+An Dun,安惇,1042,M,Liu Zhi,刘挚,1027,M,Disagreed with views of,不合,Qujiang,渠江,106.631752,30.47769,Xucheng,须城,116.282559,35.956072,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1084.026333,1,8089
+Chen Ruozhuo,陈若拙,955,M,Chen Shu(2),陈恕,947,M,Disagreed with views of,不合,Lulong,卢龙,118.8619537,39.87731934,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,692.7222745,56,83
+Chen Yaozuo,陈尧佐,963,M,Wang Sui,王随,972,M,Disagreed with views of,不合,Guancheng,管城,113.641312,34.758076,Heyang,河阳,112.785721,34.840869,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,78.66291185,98,1882
+Zhang Zhibo,张知白,965,M,Wang Qinruo,王钦若,962,M,Disagreed with views of,不合,Qingchi,清池,117.024101,38.209126,Xinyu,新喻,114.931137,27.804075,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1173.234126,200,1768
+Zhang Xun,张逊,940,M,Kou Zhun,寇准,961,M,Disagreed with views of,不合,Kaifeng,开封,114.34333,34.785477,Xiagui,下邽,109.50959,34.729103,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,441.5883559,232,898
+Zhang Dun,章惇,1035,M,Wang Zhen,王震,1046,M,Disagreed with views of,不合,Pucheng,浦城,118.536255,27.924686,Shen Xian,莘县,115.665085,36.236708,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,962.8811634,333,3947
+Zhao Pin,赵玭,921,M,Zhao Pu,赵普,922,M,Disagreed with views of,不合,Puyang,濮阳,115.078057,35.650175,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,268.3864693,374,8023
+Zhao Bian,赵抃,1008,M,Wang Anshi,王安石,1021,M,Disagreed with views of,不合,Xi'an,西安,118.867645,28.956821,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,268.6536093,375,1762
+Han Zhongyan,韩忠彦,1038,M,Zeng Bu,曾布,1036,M,Disagreed with views of,不合,Anyang,安阳,114.345497,36.098343,Dantu,丹徒,119.4442902,32.20648956,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,638.0953334,644,1707
+Kou Zhun,寇准,961,M,Zhang Xun,张逊,940,M,Disagreed with views of,不合,Xiagui,下邽,109.50959,34.729103,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,441.5883559,898,232
+Li Mida,李弥大,1080,M,Li Gang,李纲,1083,M,Disagreed with views of,不合,Wu Xian,吴县,120.618622,31.31271,Wuxi,无锡,120.297668,31.574614,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,42.13287643,1063,8078
+Lv Huiqing,吕惠卿,1032,M,Li Zhaoyuan,李昭远,1033,M,Disagreed with views of,不合,Jinjiang,晋江,118.589905,24.909641,Putian,莆田,119.011101,25.433954,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,72.08101142,1309,16981
+Lv Yihao,吕颐浩,1071,M,Fu Zhirou,富直柔,1093,M,Disagreed with views of,不合,Linhai,临海,121.120598,28.843132,Changshu,常熟,120.733788,31.646582,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,313.9356083,1310,8047
+Shen Liao,沈辽,1032,M,Wang Anshi,王安石,1021,M,Disagreed with views of,不合,Qiantang,钱塘,120.168625,30.294125,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,450.9340096,1453,1762
+Shi Changyan,施昌言,1001,M,Fan Zhongyan,范仲淹,989,M,Disagreed with views of,不合,Wu Xian,吴县,120.618622,31.31271,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,1464,8043
+Sima Guang,司马光,1019,M,An Dun,安惇,1042,M,Disagreed with views of,不合,Xia Xian,夏县,111.220055,35.137451,Qujiang,渠江,106.631752,30.47769,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,672.383603,1488,1
+Sima Guang,司马光,1019,M,Wang Anshi,王安石,1021,M,Disagreed with views of,不合,Xia Xian,夏县,111.220055,35.137451,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,931.7923926,1488,1762
+Sun Lan,孙览,1043,M,Cai Jing,蔡京,1047,M,Disagreed with views of,不合,Gaoyou,高邮,119.437332,32.79071,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,828.9846671,1535,1649
+Zeng Bu,曾布,1036,M,Han Zhongyan,韩忠彦,1038,M,Disagreed with views of,不合,Dantu,丹徒,119.4442902,32.20648956,Anyang,安阳,114.345497,36.098343,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,638.0953334,1707,644
+Zeng Bu,曾布,1036,M,Rao Jie,饶节,,M,Disagreed with views of,不合,Dantu,丹徒,119.4442902,32.20648956,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,555.717256,1707,24830
+Wang Anshi,王安石,1021,M,Zhao Bian,赵抃,1008,M,Disagreed with views of,不合,Linchuan,临川,116.351341,27.984781,Xi'an,西安,118.867645,28.956821,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,268.6536093,1762,375
+Wang Anshi,王安石,1021,M,Ouyang Xiu,欧阳修,1007,M,Disagreed with views of,不合,Linchuan,临川,116.351341,27.984781,Xinzheng,新郑,113.719086,34.397324,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,755.6335994,1762,1384
+Wang Anshi,王安石,1021,M,Shen Liao,沈辽,1032,M,Disagreed with views of,不合,Linchuan,临川,116.351341,27.984781,Qiantang,钱塘,120.168625,30.294125,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,450.9340096,1762,1453
+Wang Anshi,王安石,1021,M,Sima Guang,司马光,1019,M,Disagreed with views of,不合,Linchuan,临川,116.351341,27.984781,Xia Xian,夏县,111.220055,35.137451,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,931.7923926,1762,1488
+Wang Anshi,王安石,1021,M,Fan Zhen(2),范镇,1008,M,Disagreed with views of,不合,Linchuan,临川,116.351341,27.984781,Changshe,长社,113.819748,34.031391,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,714.2522893,1762,3279
+Wang Qinruo,王钦若,962,M,Zhang Zhibo,张知白,965,M,Disagreed with views of,不合,Xinyu,新喻,114.931137,27.804075,Qingchi,清池,117.024101,38.209126,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1173.234126,1768,200
+Yang Tan,杨覃,958,M,Zhu Taifu,朱台符,962,M,Disagreed with views of,不合,Qiantang,钱塘,120.168625,30.294125,Meishan,眉山,103.831459,30.050497,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1569.373499,2024,531
+Yang Tan,杨覃,958,M,Zhu Taifu,朱台符,962,M,Disagreed with views of,不合,Qiantang,钱塘,120.168625,30.294125,Meishan,眉山,103.831459,30.050497,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1569.373499,2024,531
+Fan Zhen(2),范镇,1008,M,Wang Anshi,王安石,1021,M,Disagreed with views of,不合,Changshe,长社,113.819748,34.031391,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,714.2522893,3279,1762
+Wang Zhen,王震,1046,M,Zhang Dun,章惇,1035,M,Disagreed with views of,不合,Shen Xian,莘县,115.665085,36.236708,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,962.8811634,3947,333
+Wang Zhen,王震,1046,M,Zhang Dun,章惇,1035,M,Disagreed with views of,不合,Shen Xian,莘县,115.665085,36.236708,Pucheng,浦城,118.536255,27.924686,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,962.8811634,3947,333
+Xu Yan,胥偃,983,M,Fan Zhongyan,范仲淹,989,M,Disagreed with views of,不合,Changsha,长沙,112.978134,28.198198,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,814.542346,7116,8043
+Qin Gui,秦桧,1090,M,Chen Jue,陈桷,1082,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Pingyang,平阳,120.556442,27.675718,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,516.275665,8008,29
+Qin Gui,秦桧,1090,M,Zhang Gang,张纲,1083,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Jintan,金坛,119.5706177,31.74697876,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,82.95334944,8008,252
+Qin Gui,秦桧,1090,M,Xu Renjie,徐仁杰,1105,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Yushan,玉山,118.240181,28.679602,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,378.4705575,8008,757
+Qin Gui,秦桧,1090,M,Wang Zhiwang,王之望,1103,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Linhai,临海,121.120598,28.843132,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,422.0736555,8008,1787
+Qin Gui,秦桧,1090,M,Fu Zhirou,富直柔,1093,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Changshu,常熟,120.733788,31.646582,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,190.9897758,8008,8047
+Qin Gui,秦桧,1090,M,Wang Bo,汪勃,1088,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Yi Xian,黟县,117.930214,29.933117,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,248.8615422,8008,8141
+Qin Gui,秦桧,1090,M,Zhang Jiucheng,张九成,1092,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Qiantang,钱塘,120.168625,30.294125,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,236.5592461,8008,12431
+Qin Gui,秦桧,1090,M,Zhang Jiucheng,张九成,1092,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Qiantang,钱塘,120.168625,30.294125,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,236.5592461,8008,12431
+Qin Gui,秦桧,1090,M,Lin Jizhong,林季仲,1091,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Yongjia,永嘉,120.653221,28.018291,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,483.8446944,8008,14355
+Qin Gui,秦桧,1090,M,Yuan Yanru,袁延儒,1099,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Gui'an,归安,120.099312,30.864964,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,182.6450546,8008,14878
+Qin Gui,秦桧,1090,M,Chen Zuan,陈祖安,,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Jianan,建安,118.323784,27.038864,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,559.1576154,8008,15027
+Qin Gui,秦桧,1090,M,Mi Kai,麋锴,1082,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,193.3857521,8008,20353
+Qin Gui,秦桧,1090,M,Fan Jun,范濬,1089,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Fengcheng,丰城,115.785782,28.197754,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,515.7332319,8008,43852
+Qin Gui,秦桧,1090,M,Xue Jing,薛京,,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Zhang Zhou,漳州,117.653053,24.511744,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,845.5732153,8008,52560
+Qin Gui,秦桧,1090,M,Luo Fu,罗复,1082,M,Disagreed with views of,不合,Jiangning,江宁,118.76899,32.052563,Tongling,铜陵,117.787499,30.953846,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,153.5705602,8008,52807
+Zhao Pu,赵普,922,M,Zhao Pin,赵玭,921,M,Disagreed with views of,不合,Luoyang,洛阳,112.38263,34.665276,Puyang,濮阳,115.078057,35.650175,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,268.3864693,8023,374
+Fan Zhongyan,范仲淹,989,M,Shi Changyan,施昌言,1001,M,Disagreed with views of,不合,Wu Xian,吴县,120.618622,31.31271,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,8043,1464
+Fan Zhongyan,范仲淹,989,M,Xu Yan,胥偃,983,M,Disagreed with views of,不合,Wu Xian,吴县,120.618622,31.31271,Changsha,长沙,112.978134,28.198198,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,814.542346,8043,7116
+Hou Meng,侯蒙,1034,M,Cai Jing,蔡京,1047,M,Disagreed with views of,不合,Gaomi,高密,119.752564,36.385406,Xianyou,仙游,118.68367,25.36455727,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1229.675716,8056,1649
+Li Gang,李纲,1083,M,Li Mida,李弥大,1080,M,Disagreed with views of,不合,Wuxi,无锡,120.297668,31.574614,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,42.13287643,8078,1063
+Li Gang,李纲,1083,M,Geng Nanzhong,耿南仲,1052,M,Disagreed with views of,不合,Wuxi,无锡,120.297668,31.574614,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,658.9985843,8078,8069
+Wang Fu(7),王黼,1079,M,Wang Zao,汪藻,1079,M,Disagreed with views of,不合,Kaifeng,开封,114.34333,34.785477,Dexing,德兴,117.580116,28.953411,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,716.7945976,8146,11625
+Wu Jie,吴玠,1076,M,Lu Fayuan,卢法原,1235,M,Disagreed with views of,不合,Chengdu,成都,104.077995,30.650385,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1577.081066,10245,1270
+Wang Zao,汪藻,1079,M,Wang Fu(7),王黼,1079,M,Disagreed with views of,不合,Dexing,德兴,117.580116,28.953411,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,716.7945976,11625,8146
+Zhang Jiucheng,张九成,1092,M,Qin Gui,秦桧,1090,M,Disagreed with views of,不合,Qiantang,钱塘,120.168625,30.294125,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,236.5592461,12431,8008
+Zhang Jiucheng,张九成,1092,M,Qin Gui,秦桧,1090,M,Disagreed with views of,不合,Qiantang,钱塘,120.168625,30.294125,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,236.5592461,12431,8008
+Shao Bowen,邵伯温,1057,M,Tong Guan,童贯,1054,M,Disagreed with views of,不合,Luoyang,洛阳,112.38263,34.665276,Kaifeng,开封,114.34333,34.785477,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,179.6838975,20864,8124
+Fan Jun,范濬,1089,M,Qin Gui,秦桧,1090,M,Disagreed with views of,不合,Fengcheng,丰城,115.785782,28.197754,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,515.7332319,43852,8008
+Zhang Shangying,张商英,1043,M,Fan Tan,范坦,1069,M,Agreed with views of,政见趋同,Xinjin,新津,103.810936,30.423536,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,931.1363762,272,16923
+Fan Tong,范同,1097,M,Qin Gui,秦桧,1090,M,Agreed with views of,政见趋同,Jiangning,江宁,118.76899,32.052563,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,584,8008
+Fu Bi,富弼,1004,M,Du Yan,杜衍,978,M,Agreed with views of,政见趋同,Wu Xian,吴县,120.618622,31.31271,Songcheng,宋城,115.646072,34.447662,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,580.4952582,628,1730
+Han Qi,韩琦,1008,M,Du Yan,杜衍,978,M,Agreed with views of,政见趋同,Anyang,安阳,114.345497,36.098343,Songcheng,宋城,115.646072,34.447662,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,218.2360502,630,1730
+Xue Bi,薛弼,1088,M,Li Gang,李纲,1083,M,Agreed with views of,政见趋同,Yongjia,永嘉,120.653221,28.018291,Wuxi,无锡,120.297668,31.574614,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,396.9302256,806,8078
+Lv Huiqing,吕惠卿,1032,M,Wang Anshi,王安石,1021,M,Agreed with views of,政见趋同,Jinjiang,晋江,118.589905,24.909641,Linchuan,临川,116.351341,27.984781,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,408.1309733,1309,1762
+Tang Jie,唐介,1010,M,Zhang Zexing,张择行,,M,Agreed with views of,政见趋同,Jiangling,江陵,112.190773,30.350445,Yidu,益都,118.478098,36.69748,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,914.8064628,1593,47326
+Du Yan,杜衍,978,M,Fu Bi,富弼,1004,M,Agreed with views of,政见趋同,Songcheng,宋城,115.646072,34.447662,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,580.4952582,1730,628
+Du Yan,杜衍,978,M,Han Qi,韩琦,1008,M,Agreed with views of,政见趋同,Songcheng,宋城,115.646072,34.447662,Anyang,安阳,114.345497,36.098343,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,218.2360502,1730,630
+Du Yan,杜衍,978,M,Fan Zhongyan,范仲淹,989,M,Agreed with views of,政见趋同,Songcheng,宋城,115.646072,34.447662,Wu Xian,吴县,120.618622,31.31271,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,580.4952582,1730,8043
+Wang Anshi,王安石,1021,M,Lv Huiqing,吕惠卿,1032,M,Agreed with views of,政见趋同,Linchuan,临川,116.351341,27.984781,Jinjiang,晋江,118.589905,24.909641,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,408.1309733,1762,1309
+Yang Xie,杨偕,980,M,Kong Daofu,孔道辅,986,M,Agreed with views of,政见趋同,Luoyang,洛阳,112.38263,34.665276,Xianyuan,仙源,116.986059,35.597553,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,431.2287351,2003,15939
+An Fu,安扶,1063,M,Cheng Zhen,程振,1071,M,Agreed with views of,政见趋同,Kaifeng,开封,114.34333,34.785477,Leping,乐平,117.124092,28.964994,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,698.3517933,3000,26915
+Fan Zhen(2),范镇,1008,M,Zhao Cuizhong,赵粹中,1124,M,Agreed with views of,政见趋同,Changshe,长社,113.819748,34.031391,Yin Xian,鄞县,121.542656,29.866316,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,862.9703272,3279,25203
+Yin Zhu,尹洙,1001,M,Yu Jing,余靖,1000,M,Agreed with views of,政见趋同,Luoyang,洛阳,112.38263,34.665276,Qujiang,曲江,113.603417,24.810209,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1102.124909,7104,12319
+Chen Guan(2),陈瓘,1057,M,Chen Shixi,陈师锡,1046,M,Agreed with views of,政见趋同,Sha Xian,沙县,117.781792,26.39761,Jianyang,建阳,118.10537,27.33988,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,109.5813772,7128,79
+Qin Gui,秦桧,1090,M,Fan Tong,范同,1097,M,Agreed with views of,政见趋同,Jiangning,江宁,118.76899,32.052563,Jiangning,江宁,118.76899,32.052563,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,0,8008,584
+Fan Zhongyan,范仲淹,989,M,Du Yan,杜衍,978,M,Agreed with views of,政见趋同,Wu Xian,吴县,120.618622,31.31271,Songcheng,宋城,115.646072,34.447662,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,580.4952582,8043,1730
+Li Gang,李纲,1083,M,Xue Bi,薛弼,1088,M,Agreed with views of,政见趋同,Wuxi,无锡,120.297668,31.574614,Yongjia,永嘉,120.653221,28.018291,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,396.9302256,8078,806
+Li Gang,李纲,1083,M,Li Pingxi,李平西,1070,M,Agreed with views of,政见趋同,Wuxi,无锡,120.297668,31.574614,Pingjiang,平江,113.574943,28.709812,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,720.4731037,8078,41105
+Yu Jing,余靖,1000,M,Ouyang Xiu,欧阳修,1007,M,Agreed with views of,政见趋同,Qujiang,曲江,113.603417,24.810209,Xinzheng,新郑,113.719086,34.397324,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1066.098438,12319,1384
+Yu Jing,余靖,1000,M,Yin Zhu,尹洙,1001,M,Agreed with views of,政见趋同,Qujiang,曲江,113.603417,24.810209,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,1102.124909,12319,7104
+Kong Daofu,孔道辅,986,M,Yang Xie,杨偕,980,M,Agreed with views of,政见趋同,Xianyuan,仙源,116.986059,35.597553,Luoyang,洛阳,112.38263,34.665276,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,431.2287351,15939,2003
+Liu Anshang,刘安上,1069,M,Shi Gongbi,石公弼,1061,M,Agreed with views of,政见趋同,Yongjia,永嘉,120.653221,28.018291,Xinchang,新昌,120.902107,29.494654,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,165.9472614,17479,13417
+Han Xizai,韩熙载,902,M,Xu Xuan,徐铉,920,M,Agreed with views of,政见趋同,Beihai,北海,119.106499,36.702705,Nanchang,南昌,115.89772,28.674896,U,未详,Wei Xiang,未详,U,未详,Wei Xiang,未详,941.6292973,94724,12236
