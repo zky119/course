@@ -1,0 +1,28 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024" height="1024px" width="1024px">
+    <title>Emoji_15</title>
+    <defs>
+        <radialGradient id="radialGradient-1" r="82.5000057%" fy="17.4999993%" fx="50.0000049%" cy="17.4999993%" cx="50.0000049%">
+            <stop offset="0%" stop-color="#FFDD70"></stop>
+            <stop offset="100%" stop-color="#F1823A"></stop>
+        </radialGradient>
+        <path id="path-2" d="M512.008062,168 C305.59355,168 168,305.59355 168,512.008062 C168,718.40645 288.404434,856 512.008062,856 C718.40645,856 856,718.40645 856,512.008062 C856,305.59355 718.40645,168 512.008062,168 Z"></path>
+        <filter id="filter-3" filterUnits="objectBoundingBox" height="225.3%" width="199.4%" y="-62.6%" x="-49.7%">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="34.08"></feGaussianBlur>
+        </filter>
+        <filter id="filter-4" filterUnits="objectBoundingBox" height="225.3%" width="199.4%" y="-62.6%" x="-49.7%">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="34.08"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none" id="Emoji_15">
+        <rect height="1024" width="1024" y="0" x="0" fill="#FFFFFF"></rect>
+        <g id="蒙版">
+            <use xlink:href="#path-2" fill="#FECC4A"></use>
+            <use xlink:href="#path-2" fill="url(#radialGradient-1)"></use>
+        </g>
+        <path filter="url(#filter-3)" fill="#F68240" id="路径" d="M347.638356,455.556522 C290.842521,455.556522 244.8,492.086494 244.8,537.156522 C244.8,582.226549 290.842521,618.756522 347.638356,618.756522 C404.434192,618.756522 450.476712,582.226549 450.476712,537.156522 C450.476712,492.086494 404.434192,455.556522 347.638356,455.556522 Z"></path>
+        <path filter="url(#filter-4)" fill="#F68240" id="路径备份" d="M675.638356,455.556522 C618.842521,455.556522 572.8,492.086494 572.8,537.156522 C572.8,582.226549 618.842521,618.756522 675.638356,618.756522 C732.434192,618.756522 778.476712,582.226549 778.476712,537.156522 C778.476712,492.086494 732.434192,455.556522 675.638356,455.556522 Z"></path>
+        <path stroke-linejoin="round" stroke-linecap="round" stroke-width="32" stroke="#000000" id="路径-14" d="M299.532554,363.011835 C316.401964,399.420965 341.624222,417.62553 375.199327,417.62553 C408.774432,417.62553 433.99669,399.420965 450.8661,363.011835"></path>
+        <path stroke-linejoin="round" stroke-linecap="round" stroke-width="32" stroke="#000000" id="路径-14备份" d="M573.132554,363.011835 C590.001964,399.420965 615.224222,417.62553 648.799327,417.62553 C682.374432,417.62553 707.59669,399.420965 724.4661,363.011835"></path>
+        <path stroke-linejoin="round" stroke-linecap="round" stroke-width="32" stroke="#000000" id="路径-15" d="M359.859505,512 C391.820998,592.781658 442.534496,633.172487 512,633.172487 C581.465504,633.172487 633.964738,592.781658 669.497702,512"></path>
+    </g>
+</svg>
